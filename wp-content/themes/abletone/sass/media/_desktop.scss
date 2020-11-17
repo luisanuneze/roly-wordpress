@@ -1,0 +1,687 @@
+/**
+ * 8.5 - >= 1024px
+ */
+
+@include media(desktop) {
+    /* Woocommerce styles */
+
+    #team-dots {
+        position: absolute;
+    }
+
+    #team-dots {
+        justify-content: flex-start;
+        
+        li {
+            margin-right: 20px;
+        }
+    }
+
+    .section-content-wrapper .entry-summary,
+    .section-content-wrapper .entry-content {
+        margin-top: 21px;
+    }
+
+    #team-content-section .team-content-wrapper.owl-carousel .owl-nav {
+        right: 50px;
+    }
+
+    #team-dots {
+        max-width: 345px;
+    }
+
+    .custom-header-content .site-header-text,
+    #feature-slider-section .entry-summary,
+    #feature-slider-section .entry-content {
+        margin-top: 25px;
+    }
+
+    .section-subtitle {
+        margin-top: 14px;
+    }
+
+    .site-header-logo,
+    .title-image {
+        margin-bottom: 25px;
+    }
+
+    ul.products.columns-2 li.product,
+    ul.products.columns-3 li.product,
+    ul.products.columns-4 li.product {
+        padding: 0 20px;
+    }
+
+    ul.products.columns-3 li.product,
+    ul.products.columns-6 li.product {
+        width: 33.33%;
+    }
+
+    ul.products.columns-4 li.product {
+        width: 25%;
+    }
+
+    ul.products.columns-5 li.product {
+        width: 20%;
+    }
+
+    .two-columns-layout.single-product ul.products.columns-4 li.product {
+        width: 50%;
+    }
+
+    ul.products.columns-4 li.product:nth-child(2n+1),
+    ul.products.columns-6  li.product:nth-child(2n+1),
+    .full-width .related ul.products li.product:nth-child(2n+1),
+    .full-width .upsells ul.products li.product:nth-child(2n+1),
+    .full-width .cross-sells ul.products li.product:nth-child(2n+1) {
+        clear: none;
+    }
+
+    .two-columns-layout.single-product ul.products.columns-4 li.product:nth-child(2n+1),
+    ul.products.columns-3 li.product:nth-child(3n+1),
+    ul.products.columns-4 li.product:nth-child(4n+1),
+    ul.products.columns-5 li.product:nth-child(5n+1),
+    ul.products.columns-6 li.product:nth-child(6n+1),
+    .full-width .related ul.products li.product:nth-child(4n+1),
+    .full-width .upsells ul.products li.product:nth-child(4n+1),
+    .full-width .cross-sells ul.products li.product:nth-child(4n+1) {
+        clear: both;
+    }
+
+    ul.products.columns-6  li.product {
+        width: 16.66666666666667%;
+    }
+
+    ul.products.columns-2 li.product .onsale,
+    ul.products.columns-3 li.product .onsale,
+    ul.products.columns-4 li.product .onsale {
+        left: auto;
+        right: 20px;
+    }/* Woocommerce styles end here */
+
+    .site-header-menu {
+        margin-right: 0;
+    }
+
+    .site-branding {
+        margin: 14px auto 14px 20px;
+    }
+
+    .is-open .menu-inside-wrapper {
+        right: 0;
+    }
+
+    .boxed-layout #page {
+        width: 96%;
+    }
+
+    .navigation-classic #header-menu-social:before {
+        margin: 21px auto 21px;
+    }
+
+    .wpcf7 {   
+        div {
+            div {
+                margin-bottom: 35px;
+            }
+        }
+    }
+
+    #feature-slider-section:hover .owl-prev,
+    #feature-slider-section:focus .owl-prev {
+        left: 60px;
+    }
+
+    #feature-slider-section:hover .owl-next,
+    #feature-slider-section:focus .owl-next {
+        right: 60px;
+    }
+
+    .widget-column {
+        padding: 28px 50px;
+    }
+
+    .page .site-main .hentry {
+        margin: 0;
+    }
+
+    .archive-posts-wrapper .section-content-wrapper .entry-header .entry-title + .entry-meta {
+        margin-top: 14px;
+        margin-bottom: 0;
+    }
+
+    .archive-posts-wrapper .section-content-wrapper .entry-header .entry-meta {
+        margin-top: 0px;
+        margin-bottom: 14px;
+    }
+
+    .featured-content-wrapper.section-content-wrapper .entry-header .entry-meta {
+        margin-bottom: 14px;
+    }
+
+    #footer-newsletter .widget {
+        padding: 14px 50px;
+    }
+
+    .section-heading-wrapper {
+        padding: 42px 35px 35px;
+    }
+
+    #hero-section .wrapper {
+        padding: 60px 50px;
+    }
+
+    .events-content-wrapper {
+        .entry-summary {
+           p {
+                flex-basis: 60%;
+            }
+        }
+    }
+    
+    .testimonial-content-wrapper,
+    .abletone-logo-slider-content-wrapper,
+    .team-content-wrapper {
+        padding: 0 50px;
+    }
+
+    #feature-slider-section .slider-content-wrapper {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .home.two-columns-layout .site-content > .wrapper,
+    .archive:not(.woocommerce).two-columns-layout .site-content > .wrapper,
+    .blog.two-columns-layout .site-content > .wrapper,
+    .two-columns-layout .site-content > .wrapper,
+    .site-content > .wrapper {
+        padding: 56px 30px;
+    }
+
+    .home.two-columns-layout .site-content > .wrapper {
+        padding-bottom: 70px;
+        padding-top: 56px;
+    }
+
+    #abletone-logo-slider-section .owl-dots {
+        margin-bottom: 42px;
+    }
+
+    .archive:not(.woocommerce) .site-content > .wrapper,
+    .home .site-content > .wrapper,
+    .blog .site-content > .wrapper {
+        padding: 56px 0 0 0;
+    }
+
+    .single .site-main .entry-header,
+    .page .site-main .entry-header,
+    .archive .page-header,
+    .error404 .page-header,
+    .search .page-header,
+    .woocommerce-products-header {
+        margin-bottom: 42px;
+    }
+
+    .hentry {
+        margin-bottom: 42px;
+    }
+
+    .service-section,
+    #contact-section,
+    .section {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    .section.no-section-heading {
+        padding-top: 102px;
+    }
+
+    .above-footer {
+        padding-top: 42px;
+    }
+
+    #team-dots li:after {
+        bottom: -20px;
+    }
+
+    .site-footer-menu .wrapper > #social-footer-navigation {
+        margin-bottom: 56px;
+    }
+
+    .view-more {
+        margin: 0 0 42px;
+    }
+
+    ul.products li.product {
+        margin: 0 auto 42px;
+    }
+
+    #hero-section {
+        padding: 0;
+    }
+
+    .comments-area {
+        padding-top: 42px;
+        margin-top: 42px;
+    }
+
+    .comment-list article, 
+    .comment-list .pingback, 
+    .comment-list .trackback {
+        padding: 2em 0;
+    }
+
+    .single-product div.product .related,
+    .single-product div.product .upsells,
+    .cart-collaterals .cross-sells,
+    .cart-collaterals .cart_totals {
+        margin-top: 42px;
+    }
+
+    .author-info {
+        margin-top: 42px;
+    }
+
+    #content #infinite-handle {
+        padding: 0 20px;
+    }
+
+    #footer-instagram .widget-title {
+        margin: 56px auto 35px;
+    }
+
+    .single .site-main .post-thumbnail,
+    .page .site-main .post-thumbnail {
+        padding: 0;
+        margin-bottom: 35px;
+    }
+
+    input[type="search"].search-field {
+        display: block;
+    }
+
+    #colophon .four .widget-column {
+        width: 25%;
+    }
+
+    #colophon .four .widget-column:nth-child(2n+1) {
+        clear: none;
+    }
+
+    #colophon .four .widget-column:nth-child(4n+1) {
+        clear: both;
+    }
+
+    .featured-content-wrapper.layout-four,
+    .portfolio-content-wrapper.layout-four,
+    .service-content-wrapper.layout-four,
+    .stats-content-wrapper.layout-four,
+    .team-content-wrapper.layout-four,
+    .featured-content-wrapper.layout-three,
+    .portfolio-content-wrapper.layout-three,
+    .service-content-wrapper.layout-three,
+    .stats-content-wrapper.layout-three,
+    .team-content-wrapper.layout-three,
+    .featured-content-wrapper.layout-two,
+    .portfolio-content-wrapper.layout-two,
+    .service-content-wrapper.layout-two,
+    .stats-content-wrapper.layout-two,
+    .team-content-wrapper.layout-two,
+    #secondary,
+    .events-content-wrapper.layout-two,
+     ul.products.columns-2, 
+     ul.products.columns-4,
+     ul.products.columns-6 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .featured-content-wrapper.layout-four .hentry:nth-child(2n+1),
+    .portfolio-content-wrapper.layout-four .hentry:nth-child(2n+1),
+    .service-content-wrapper.layout-four .hentry:nth-child(2n+1),
+    .stats-content-wrapper.layout-four .hentry:nth-child(2n+1),
+    .team-content-wrapper.layout-four .hentry:nth-child(2n+1) {
+        clear: none;
+    }
+
+    .featured-content-wrapper.layout-four .hentry:nth-child(4n+1),
+    .portfolio-content-wrapper.layout-four .hentry:nth-child(4n+1),
+    .service-content-wrapper.layout-four .hentry:nth-child(4n+1),
+    .stats-content-wrapper.layout-four .hentry:nth-child(4n+1),
+    .team-content-wrapper.layout-four .hentry:nth-child(4n+1) {
+        clear: both;
+    }
+
+    #gallery-section .gallery-columns-4 .gallery-item,
+    .featured-content-wrapper.layout-four .hentry,
+    .portfolio-content-wrapper.layout-four .hentry,
+    .service-content-wrapper.layout-four .hentry,
+    .stats-content-wrapper.layout-four .hentry,
+    .team-content-wrapper.layout-four .hentry {
+        width: 25%;
+    }
+
+    .portfolio-content-wrapper.layout-five .hentry {
+        width: 20%;
+    }
+
+    #gallery-section .gallery-columns-5 .gallery-item {
+        width: 20%;
+    }
+
+    #gallery-section .gallery-columns-6 .gallery-item {
+        width: 16.66666666666667%;
+    }
+
+    #gallery-section .gallery-columns-7 .gallery-item {
+        width: 14.28571428571429%;
+    }
+
+    #gallery-section .gallery-columns-8 .gallery-item {
+        width: 12.5%;
+    }
+
+    #gallery-section .gallery-columns-9 .gallery-item {
+        width: 11.11111111111111%;
+    }
+
+    // .archive-post-wrap article,
+    .featured-video-content-wrapper .hentry,
+    .playlist-content-wrapper .hentry,
+    .featured-content-wrapper.layout-four .hentry,
+    .portfolio-content-wrapper.layout-four .hentry,
+    .service-content-wrapper.layout-four .hentry,
+    .stats-content-wrapper.layout-four .hentry,
+    .team-content-wrapper.layout-four .hentry,
+    .featured-content-wrapper.layout-three .hentry,
+    .portfolio-content-wrapper.layout-three .hentry,
+    .service-content-wrapper.layout-three .hentry,
+    .stats-content-wrapper.layout-three .hentry,
+    .team-content-wrapper.layout-three .hentry,
+    .featured-content-wrapper.layout-two .hentry,
+    .portfolio-content-wrapper.layout-two .hentry,
+    .service-content-wrapper.layout-two .hentry,
+    .stats-content-wrapper.layout-two .hentry,
+    .team-content-wrapper.layout-two .hentry,
+    .events-content-wrapper.layout-two > *,
+    .portfolio-content-wrapper.layout-five .hentry {
+        padding: 0 20px;
+    }
+
+    .featured-video-content-wrapper .hentry {
+        width: 30%;
+    }
+
+    .featured-video-content-wrapper .hentry:first-child {
+        width: 70%;
+    }
+
+    .featured-video-content-wrapper .hentry:nth-child(2n+1) {
+        clear: none;
+    }
+
+    .archive .content-area {
+        float: left;
+        width: 70%;
+    }
+
+    .content-area {
+        float: left;
+        margin-right: -100%;
+        width: 70%;
+        max-width: 960px;
+    }
+
+    .sidebar {
+        float: right;
+        width: 30%;
+    }
+
+    .two-columns-layout .site-content #primary, 
+    .two-columns-layout .site-content #secondary {
+        padding: 0 20px;
+    }
+
+    .full-width-layout #primary,
+    .full-width-layout #secondary {
+        padding: 0;
+    }
+
+    .site-content .wrapper > .sidebar {
+        margin-top: 0;
+    }
+
+    .archive-post-wrap .hentry .entry-container,
+    .two-columns-layout .archive-post-wrap .hentry .entry-container,
+    .no-sidebar .archive-post-wrap .hentry .entry-container {
+        padding: 120px 50px;
+    }
+
+   .archive-post-wrap .hentry .entry-container {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .archive-post-wrap .hentry .post-thumbnail-background + .entry-container {
+        padding-right: 70px;
+    }
+
+    .archive-post-wrap .hentry:nth-child(2n) .post-thumbnail-background + .entry-container {
+        padding-left: 70px;
+    }
+
+    .content-right .content-area {
+        float: right;
+        margin-right: 0;
+        margin-left: -100%;
+    }
+
+    .content-right .sidebar {
+        float: left;
+    }
+
+    .no-sidebar .content-area {
+        float: none;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .no-sidebar.full-width-layout .content-area {
+        margin: 0;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .sidebar .widget {
+        float: none;
+        width: 100%;
+    }
+
+    .entry-content blockquote.alignleft,
+    .entry-content blockquote.alignright {
+        width: 52%;
+    }
+
+    .site-title {
+        font-size: 24px;
+        font-size: 1.5rem;
+    }
+
+    .home .header-media .entry-title,
+    #feature-slider-section .entry-title,
+    .entry-content h1,
+    .entry-summary h1,
+    .comment-content h1,
+    .textwidget h1,
+    #contact-section .entry-title,
+    .archive-post-wrap .hentry .entry-title,
+    .events-content-wrapper .date-week-day,
+    #footer-instagram .widget-title,
+    .section-title,
+    #app-section .section-title,
+    #hero-section .entry-title,
+    #playlist-section .entry-title,
+    .singular-content-wrap .entry-title,
+    .page-title {
+        font-size: 36px;
+        font-size: 2.25rem;
+    }
+
+    .woocommerce-posts-wrapper .entry-title,
+    .woocommerce .related.products > h2,
+    .entry-content h2,
+    .entry-summary h2,
+    .comment-content h2,
+    .textwidget h2 {
+        font-size: 32px;
+        font-size: 2rem;
+    }
+
+    #site-generator .social-navigation a,
+    .entry-content h3,
+    .entry-summary h3,
+    .comment-content h3,
+    .textwidget h3 {
+        font-size: 28px;
+        font-size: 1.75rem;
+    }
+
+    .entry-content h4,
+    .comment-content h4,
+    .team-content-wrapper .entry-title,
+    .textwidget h4 {
+        font-size: 24px;
+        font-size: 1.5rem;
+    }
+
+    .sidebar .widget .widget-wrap {
+        padding: 35px;
+    }
+
+    .sidebar.widget-area section.widget {
+        margin-bottom: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+    .entry-content h5,
+    .comment-content h5,
+    .textwidget h5 {
+        font-size: 22px;
+        font-size: 1.375rem;
+    }
+
+    .entry-content h6,
+    .comment-content h6,
+    .textwidget h6 {
+        font-size: 18px;
+        font-size: 1.125rem;
+    }
+
+    .hero-content-wrapper .post-thumbnail-background {
+        width: 50%;
+    }
+
+    .hero-content-wrapper .entry-container {
+        padding-bottom: 35px;
+        padding-top: 35px;
+        width: 50%;
+    }
+
+     .content-align-left .hero-content-wrapper .entry-container {
+        padding-right: 140px;
+    }
+
+    .content-align-right .hero-content-wrapper .entry-container {
+        padding-left: 90px;
+    }
+
+    .playlist-content-wrapper .entry-container {
+        padding: 0 0 0 40px;
+    }
+
+    .playlist-content-wrapper.content-align-left .entry-container {
+        padding-left: 0;
+        padding-right: 40px;
+    }
+
+    .recent-blog-content-wrapper {
+        padding: 0 50px;
+    }
+
+    .comment-respond {
+        padding: 42px 49px;
+    }
+
+    .promotion-section .content-wrapper,
+    .app-section .content-wrapper {
+        padding: 0 50px;
+    }
+
+    .app-section.content-frame .entry-container-frame {
+        padding: 4.5em 4em;
+    }
+
+    #site-generator {
+        padding: 35px 50px 28px;
+    }
+
+    .custom-header-content {
+        padding: 50px 50px;
+    }
+
+    body:not(.home) .custom-header-content {
+        padding: 75px 50px;
+    }
+
+    #testimonial-content-section .owl-nav {
+        right: 77px;
+        bottom: 70px;
+    }
+
+    .portfolio-content-wrapper .entry-container,
+    .portfolio-content-wrapper .entry-container {
+        opacity: 0;
+    }
+
+    .portfolio-content-wrapper .hentry-inner:hover .entry-container,
+    .portfolio-content-wrapper .hentry-inner:focus .entry-container {
+        opacity: 1;
+    }
+
+    #content #infinite-handle,
+    #content .infinite-loader {
+        bottom: -42px;
+    }
+
+    #footer-newsletter .widget-inner {
+        padding: 49px 50px;
+    }
+
+    .footer-newsletter .has-ew-newsletter-image .ew-newsletter-content-container {
+        padding-left: 42px;
+        padding-right: 66px;
+    }
+
+    .footer-newsletter .has-ew-newsletter-image .ew-newsletter-image-container {
+        flex: 1 1 39.02173913043478%;
+        max-width: 39.02173913043478%;
+    }
+
+    .footer-newsletter .has-ew-newsletter-image .ew-newsletter-content-container {
+        flex: 1 1 60.97826086956522%;
+        max-width: 60.97826086956522%;
+    }
+
+    #contact-section .section-content-wrapper {
+        padding: 0 50px;
+    }
+
+    #testimonial-content-section .owl-dot {
+        margin-bottom: 42px;
+    }
+
+    #testimonial-content-section .section-heading-wrapper {
+        padding-bottom: 42px;
+    }
+}

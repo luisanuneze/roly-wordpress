@@ -1,0 +1,37 @@
+/**
+ * 7.3.9 - Hero Content
+ */
+
+#hero-section {
+    border: none;
+    text-align: center;
+}
+
+#hero-section .wrapper {
+    padding: 35px 30px;
+}
+
+#hero-section .hentry {
+    margin: 0;
+    padding: 0;
+    position: static;
+}
+
+.hero-content-wrapper .post-thumbnail-background {
+    background-position: center center;
+    background-size: cover;
+    content: "";
+    float: left;
+    left: auto;
+    padding-bottom: 100%;
+    position: relative;
+    margin: 0;
+    margin-bottom: 35px;
+    width: 100%;
+}
+
+.hero-content-wrapper .entry-container {
+    clear: both;
+    margin: 0;
+    width: 100%;
+}

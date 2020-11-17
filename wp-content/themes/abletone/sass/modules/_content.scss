@@ -1,0 +1,101 @@
+/**
+ * 6.6 - Content
+ */
+
+#page {
+    margin: 0 auto;
+    overflow-x: hidden;
+    position: relative;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.boxed-layout #page {
+    max-width: 1600px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 1500px;
+    width: 100%;
+}
+
+.single .site-main .post-thumbnail,
+.page .site-main .post-thumbnail {
+    margin-top: 0;
+}
+
+.home #content #infinite-handle {
+    padding: 0;
+}
+
+.site-header .wrapper {
+    max-width: 1808px;
+}
+
+.header-media .wrapper,
+#footer-instagram .wrapper,
+.gallery-section .wrapper {
+    width: 100%;
+    max-width: 1920px;
+}
+
+.recent-blog-content .wrapper {
+    max-width: 1020px;
+    margin: 0 auto;
+}
+
+.page.no-sidebar .content-area,
+.single.no-sidebar .content-area,
+.no-sidebar .site-content > .wrapper .content-area {
+    max-width: 920px;
+    margin: 0 auto;
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+    outline: 0;
+}
+
+.sidebar .widget-title {
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.sidebar .widget p {
+    margin-bottom: 28px;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+.archive-post-wrap .hentry-inner {
+    > div {
+        width: 100%;
+    }
+}
+
+.archive-post-wrap .hentry {
+    z-index: 0;
+
+    .post-thumbnail-background {
+        background-position: center center;
+        background-size: cover;
+        right: 0;
+        left: auto;
+    }
+}
+
+.archive-post-wrap .hentry:nth-child(2n) {
+
+    .entry-container{
+        margin-left: auto;
+    }
+
+    .post-thumbnail-background {
+        background-position: left center;
+        left: 0;
+        right: auto;
+    }
+}

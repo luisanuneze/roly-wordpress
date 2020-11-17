@@ -1,0 +1,591 @@
+# Translation of Plugins - Block Gallery &#8211; Photo Gallery Gutenberg Blocks - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Block Gallery &#8211; Photo Gallery Gutenberg Blocks - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-05 16:20:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Block Gallery &#8211; Photo Gallery Gutenberg Blocks - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Plugin URI of the plugin
+msgid "https://wpblockgallery.com"
+msgstr "https://wpblockgallery.com"
+
+#. Description of the plugin
+msgid "The most advanced suite of gallery blocks for the Gutenberg block editor. Create stunning <strong>masonry</strong>, <strong>carousel</strong> and <strong>stacked</strong> galleries in seconds, with the brilliantly intuitive interface. Block Gallery is absolutely the best collection of native editor gallery blocks in the world."
+msgstr "El conjunto de bloques de galería más avanzado para el editor de bloques (Gutenberg). Crea galerías con diseño en forma de <strong>muro</strong>, <strong>carrusel</strong> y <strong>apiladas</strong> en segundos, con una interfaz brillantemente intuitiva. Block Gallery es, sin duda, la mejor colección del mundo de bloques de galería para el editor nativo de WordPress."
+
+#: languages/block-gallery-translations.php:67
+msgid "Captions"
+msgstr "Leyendas"
+
+#: languages/block-gallery-translations.php:82
+msgid "Showing captions for each media item."
+msgstr "Mostrando las leyendas de cada medio."
+
+#: languages/block-gallery-translations.php:86
+msgid "Toggle to show media captions."
+msgstr "Cambia para mostrar las leyendas de los medios."
+
+#: languages/block-gallery-translations.php:350
+msgid "None"
+msgstr "Ninguno"
+
+#: languages/block-gallery-translations.php:344
+msgid "Attachment Page"
+msgstr "Página de adjuntos"
+
+#: languages/block-gallery-translations.php:341
+msgid "Five Seconds"
+msgstr "Cinco segundos"
+
+#: languages/block-gallery-translations.php:338
+msgid "Four Seconds"
+msgstr "Cuatro segundos"
+
+#: languages/block-gallery-translations.php:335
+msgid "Three Seconds"
+msgstr "Tres segundos"
+
+#: languages/block-gallery-translations.php:332
+msgid "Two Seconds"
+msgstr "Dos segundos"
+
+#: languages/block-gallery-translations.php:329
+msgid "One Second"
+msgstr "Un segundo"
+
+#: languages/block-gallery-translations.php:320
+msgid "Draggable"
+msgstr "Arrastrable"
+
+#: languages/block-gallery-translations.php:369 class-block-gallery.php:86
+#: class-block-gallery.php:98
+msgid "Cheating huh?"
+msgstr "Haciendo trampas ¿eh?"
+
+#: languages/block-gallery-translations.php:323
+msgid "Arrow Navigation"
+msgstr "Navegación con flechas"
+
+#: languages/block-gallery-translations.php:326
+msgid "Dot Navigation"
+msgstr "Navegación con puntos"
+
+#: languages/block-gallery-translations.php:282
+msgid "second"
+msgstr "segundo"
+
+#: languages/block-gallery-translations.php:279
+msgid "seconds"
+msgstr "segundos"
+
+#: languages/block-gallery-translations.php:276
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: languages/block-gallery-translations.php:273
+msgid "Large"
+msgstr "Grande"
+
+#: languages/block-gallery-translations.php:267
+msgid "Select Size"
+msgstr "Elige un tamaño"
+
+#: languages/block-gallery-translations.php:264
+msgid "Medium"
+msgstr "Medio"
+
+#: languages/block-gallery-translations.php:261
+msgid "Small"
+msgstr "Pequeño"
+
+#: languages/block-gallery-translations.php:254
+msgid "Light"
+msgstr "Ligero"
+
+#: languages/block-gallery-translations.php:250
+msgid "Lightbox style"
+msgstr "Estilo de la caja de luz (lightbox)"
+
+#: languages/block-gallery-translations.php:247
+msgid "Enable Lightbox"
+msgstr "Habilitar la caja de luz (lightbox)"
+
+#: languages/block-gallery-translations.php:244
+msgid "Sepia"
+msgstr "Sepia"
+
+#: languages/block-gallery-translations.php:240
+msgid "Grayscale"
+msgstr "Escala de grises"
+
+#: languages/block-gallery-translations.php:236
+msgid "Apply Filter"
+msgstr "Aplicar filtro"
+
+#: languages/block-gallery-translations.php:270
+msgid "Reset"
+msgstr "Restablecer"
+
+#: languages/block-gallery-translations.php:347
+msgid "Media File"
+msgstr "Archivo de medios"
+
+#: languages/block-gallery-translations.php:317
+msgid "Transition Speed"
+msgstr "Velocidad de transición"
+
+#: languages/block-gallery-translations.php:314
+msgid "Autoplay Slides"
+msgstr "Ejecuta de forma automática las diapositivas."
+
+#: languages/block-gallery-translations.php:311
+msgid "Slider Settings"
+msgstr "Ajustes de diapositivas"
+
+#: languages/block-gallery-translations.php:308
+msgid "Toggle to show dot navigation."
+msgstr "Cambia para mostrar la navegación por puntos."
+
+#: languages/block-gallery-translations.php:305
+msgid "Showing dot navigation arrows."
+msgstr "Mostrando flechas de navegación de puntos."
+
+#: languages/block-gallery-translations.php:302
+msgid "Toggle to show slide navigation arrows."
+msgstr "Cambia para mostrar las flechas de navegación de diapositivas."
+
+#: languages/block-gallery-translations.php:299
+msgid "Showing slide navigation arrows."
+msgstr "Mostrando flechas de navegación de carrusel."
+
+#. translators: 1. Speed of the slider, 2: Time until the slide advances
+#: languages/block-gallery-translations.php:290
+msgid "Automatically advance to the next gallery item after a set duration."
+msgstr "Avanza automáticamente al siguiente elemento de la galería después de una duración establecida."
+
+#. translators: 1. Speed of the slider, 2: Time until the slide advances
+#: languages/block-gallery-translations.php:286
+msgid "Automatically advancing to the next gallery item after %1$d %2$s."
+msgstr "Avanza automáticamente al siguiente elemento de la galería después de %1$d %2$s."
+
+#. translators: Control name
+#: languages/block-gallery-translations.php:258
+msgid "Mobile %s"
+msgstr "Móvil %s"
+
+#: languages/block-gallery-translations.php:233
+msgid "Edit Gallery"
+msgstr "Editar galería"
+
+#: languages/block-gallery-translations.php:230
+msgid "Original"
+msgstr "Original"
+
+#: languages/block-gallery-translations.php:226
+msgid "Vintage"
+msgstr "Vintage"
+
+#: languages/block-gallery-translations.php:222
+msgid "Dark"
+msgstr "Oscuro"
+
+#: languages/block-gallery-translations.php:216
+msgid "Saturation"
+msgstr "Saturación"
+
+#: languages/block-gallery-translations.php:212
+msgid "Upload an image"
+msgstr "Subir una imagen"
+
+#: languages/block-gallery-translations.php:209
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Arrastra imágenes, sube otras nuevas o selecciona archivos de tu biblioteca."
+
+#: languages/block-gallery-translations.php:206
+msgid "Remove Image"
+msgstr "Quitar imagen"
+
+#: languages/block-gallery-translations.php:200
+msgid "Add Background Image"
+msgstr "Añadir imagen de fondo"
+
+#: languages/block-gallery-translations.php:194
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: languages/block-gallery-translations.php:191
+msgid "Color Settings"
+msgstr "Ajustes de color"
+
+#: languages/block-gallery-translations.php:188
+msgid "Remove Background Image"
+msgstr "Quitar imagen de fondo"
+
+#: languages/block-gallery-translations.php:185
+msgid "Fixed Background"
+msgstr "Fondo fijo"
+
+#: languages/block-gallery-translations.php:182
+msgid "Display"
+msgstr "Visualización"
+
+#: languages/block-gallery-translations.php:179
+msgid "Repeat"
+msgstr "Repetir"
+
+#: languages/block-gallery-translations.php:176
+msgid "Position"
+msgstr "Posición"
+
+#: languages/block-gallery-translations.php:170
+msgid "Padding"
+msgstr "Relleno"
+
+#: languages/block-gallery-translations.php:167
+msgid "Background Settings"
+msgstr "Ajustes de fondo"
+
+#: languages/block-gallery-translations.php:164
+msgid "Contain"
+msgstr "Contiene"
+
+#: languages/block-gallery-translations.php:161
+msgid "Cover"
+msgstr "Cubrir"
+
+#: languages/block-gallery-translations.php:158
+msgid "Auto"
+msgstr "Auto"
+
+#: languages/block-gallery-translations.php:149
+msgid "No Repeat"
+msgstr "No repetir"
+
+#: languages/block-gallery-translations.php:146
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+#: languages/block-gallery-translations.php:140
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+#: languages/block-gallery-translations.php:131
+msgid "Center Left"
+msgstr "Centro izquierda"
+
+#: languages/block-gallery-translations.php:128
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+#: languages/block-gallery-translations.php:122
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+#: languages/block-gallery-translations.php:119
+msgid "Display multiple images in an single column stacked gallery."
+msgstr "Muestra varias imágenes en una galería apilada de una sola columna."
+
+#: languages/block-gallery-translations.php:116
+msgid "Stacked"
+msgstr "Apilado"
+
+#: languages/block-gallery-translations.php:107
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Cambia para rellenar el área de la galería disponible con imágenes completamente de ancho completo."
+
+#: languages/block-gallery-translations.php:101
+msgid "Box Shadow"
+msgstr "Sombra de la caja"
+
+#: languages/block-gallery-translations.php:92
+msgid "Add rounded corners to the gallery items."
+msgstr "Añade esquinas redondeadas a los elementos de la galería."
+
+#: languages/block-gallery-translations.php:89
+msgid "Column Size"
+msgstr "Tamaño de la columna"
+
+#: languages/block-gallery-translations.php:78
+msgid "Link To"
+msgstr "Enlazado a"
+
+#: languages/block-gallery-translations.php:74
+msgid "Link Settings"
+msgstr "Ajustes del enlace"
+
+#: languages/block-gallery-translations.php:63
+msgid "Drop to add to the %s gallery"
+msgstr "Arrastra para añadir a la galería %s"
+
+#: languages/block-gallery-translations.php:59
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Muestra varias imágenes en una bonita galería de carrusel."
+
+#: languages/block-gallery-translations.php:56
+msgid "photos"
+msgstr "fotos"
+
+#: languages/block-gallery-translations.php:51
+msgid "images"
+msgstr "imágenes"
+
+#: languages/block-gallery-translations.php:46
+msgid "gallery"
+msgstr "galeria"
+
+#: languages/block-gallery-translations.php:41
+msgid "Carousel"
+msgstr "Carrusel"
+
+#: languages/block-gallery-translations.php:32
+msgid "Height in pixels"
+msgstr "Altura en píxeles"
+
+#: languages/block-gallery-translations.php:29
+msgid "Gutter"
+msgstr "Espaciado"
+
+#: languages/block-gallery-translations.php:24
+msgid "Size"
+msgstr "Tamaño"
+
+#: languages/block-gallery-translations.php:21
+msgid "%s Settings"
+msgstr "Ajustes de %s"
+
+#: languages/block-gallery-translations.php:16
+msgid "Write caption…"
+msgstr "Escribe la leyenda…"
+
+#. translators: %s: Lowercase block title
+#: languages/block-gallery-translations.php:7
+msgid "Drop to add to the %s"
+msgstr "Arrastra para añadir a %s"
+
+#: languages/block-gallery-translations.php:143
+msgid "Bottom Center"
+msgstr "Abajo al centro"
+
+#: languages/block-gallery-translations.php:137
+msgid "Center Right"
+msgstr "Centro a la derecha"
+
+#: languages/block-gallery-translations.php:125
+msgid "Top Center"
+msgstr "Arriba al centro"
+
+#: languages/block-gallery-translations.php:203
+msgid "Remove background image"
+msgstr "Elimina la imagen de fondo"
+
+#: languages/block-gallery-translations.php:197
+msgid "Caption Text Color"
+msgstr "Color de texto de la leyenda"
+
+#: languages/block-gallery-translations.php:173
+msgid "Image Overlay"
+msgstr "Superposición de imágenes"
+
+#: languages/block-gallery-translations.php:155
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: languages/block-gallery-translations.php:134
+msgid "Center Center"
+msgstr "Centrado centrado"
+
+#: languages/block-gallery-translations.php:104
+msgid "Fullwidth images are enabled."
+msgstr "Las imágenes de ancho completo están activadas."
+
+#: languages/block-gallery-translations.php:98
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Muestra múltiples imágenes en una galería organizada tipo muro."
+
+#: languages/block-gallery-translations.php:95
+msgid "Masonry"
+msgstr "Muro"
+
+#: languages/block-gallery-translations.php:70
+msgid "Caption Style"
+msgstr "Estilo de leyenda"
+
+#: languages/block-gallery-translations.php:38
+msgid "Rounded Corners"
+msgstr "Esquinas redondeadas"
+
+#: languages/block-gallery-translations.php:12
+msgid "%s Gallery"
+msgstr "Galería %s"
+
+#: languages/block-gallery-translations.php:152
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: languages/block-gallery-translations.php:296
+msgid "Toggle to enable drag functionality on desktop and mobile devices."
+msgstr "Cambia la funcionalidad de arrastrar en dispositivos móviles y escritorio."
+
+#: languages/block-gallery-translations.php:113
+msgid "Fullwidth Image"
+msgstr "Imagen en ancho completo"
+
+#: languages/block-gallery-translations.php:110
+msgid "Fullwidth Images"
+msgstr "Imágenes en ancho completo"
+
+#. translators: 1. Name
+#: languages/block-gallery-translations.php:435
+#: includes/admin/class-block-gallery-feedback.php:271
+msgid "%1$s WordPress Plugin"
+msgstr "%1$s plugin de WordPres "
+
+#. translators: Number of days
+#: languages/block-gallery-translations.php:407
+#: includes/admin/class-block-gallery-feedback.php:110
+msgid "%s days"
+msgstr "%s días"
+
+#. translators: Number of hours
+#: languages/block-gallery-translations.php:414
+#: includes/admin/class-block-gallery-feedback.php:119
+msgid "%s hours"
+msgstr "%s horas"
+
+#. translators: Number of minutes
+#: languages/block-gallery-translations.php:421
+#: includes/admin/class-block-gallery-feedback.php:128
+msgid "%s minutes"
+msgstr "%s minutos"
+
+#. translators: Number of seconds
+#: languages/block-gallery-translations.php:428
+#: includes/admin/class-block-gallery-feedback.php:137
+msgid "%s seconds"
+msgstr "%s segundos"
+
+#. translators: Number of weeks
+#: languages/block-gallery-translations.php:400
+#: includes/admin/class-block-gallery-feedback.php:101
+msgid "%s weeks"
+msgstr "%s semanas"
+
+#. translators: Number of years
+#: languages/block-gallery-translations.php:393
+#: includes/admin/class-block-gallery-feedback.php:92
+msgid "%s years"
+msgstr "%s años"
+
+#. translators: 1. Name
+#: languages/block-gallery-translations.php:439
+#: includes/admin/class-block-gallery-feedback.php:275
+msgid "Are you enjoying %1$s?"
+msgstr "¿Estás disfrutando %1$s?"
+
+#. Plugin Name of the plugin
+#: languages/block-gallery-translations.php:353
+msgid "Block Gallery"
+msgstr "Block Gallery"
+
+#: languages/block-gallery-translations.php:359
+msgid "Block Gallery is a suite of beautiful gallery blocks for the WordPress Gutenberg block editor.."
+msgstr "Block Gallery es una suite de hermosos bloques de galerías para Gutenberg, el editor de bloques de WordPress."
+
+#. translators: 1: Plugin Name, 2: Link to plugin review
+#: languages/block-gallery-translations.php:389
+#: includes/admin/class-block-gallery-footer-text.php:44
+msgid "Enjoying %1$s? Please leave a %2$s rating — we appreciate your support!"
+msgstr "¿Disfrutando de%1$s? Por favor, deja una valoración de%2$s — ¡Te agradecemos el apoyo!"
+
+#: languages/block-gallery-translations.php:372
+#: includes/admin/class-block-gallery-action-links.php:52
+msgid "Go Pro"
+msgstr "Ir a la versión Pro"
+
+#: languages/block-gallery-translations.php:378
+#: includes/admin/class-block-gallery-action-links.php:85
+msgid "Help & FAQs"
+msgstr "Ayuda & FAQs"
+
+#: languages/block-gallery-translations.php:385
+#: includes/admin/class-block-gallery-feedback.php:282
+#: includes/admin/class-block-gallery-action-links.php:86
+msgid "Leave a Review"
+msgstr "Deja una valoración"
+
+#: languages/block-gallery-translations.php:446
+#: includes/admin/class-block-gallery-feedback.php:283
+msgid "No thanks / I already have"
+msgstr "No gracias / ya lo tengo"
+
+#: languages/block-gallery-translations.php:381
+#: includes/admin/class-block-gallery-action-links.php:86
+msgid "Review Block Gallery on WordPress.org"
+msgstr "Valora Block Gallery en WordPress.org"
+
+#: languages/block-gallery-translations.php:362
+msgid "Rich Tabor"
+msgstr "Rich Tabor"
+
+#: languages/block-gallery-translations.php:375
+#: includes/admin/class-block-gallery-action-links.php:85
+msgid "View Block Gallery Documentation"
+msgstr "Ver documentación de Block Gallery"
+
+#. translators: 1. Name, 2. Time
+#: languages/block-gallery-translations.php:443
+#: includes/admin/class-block-gallery-feedback.php:278
+msgid "You have been using %1$s for %2$s now! Mind leaving a quick review to let us know know what you think? I'd really appreciate it!"
+msgstr "¡Has estado utilizando %1$s durante %2$s! Si no te importa, ¿puedes dejarnos una valoración rápida para hacernos saber lo que piensas? ¡Te lo agradecería mucho!"
+
+#: languages/block-gallery-translations.php:410
+#: includes/admin/class-block-gallery-feedback.php:112
+msgid "a day"
+msgstr "un día"
+
+#: languages/block-gallery-translations.php:424
+#: includes/admin/class-block-gallery-feedback.php:130
+msgid "a minute"
+msgstr "un minuto"
+
+#: languages/block-gallery-translations.php:431
+#: includes/admin/class-block-gallery-feedback.php:139
+msgid "a second"
+msgstr "un segundo"
+
+#: languages/block-gallery-translations.php:403
+#: includes/admin/class-block-gallery-feedback.php:103
+msgid "a week"
+msgstr "una semana"
+
+#: languages/block-gallery-translations.php:396
+#: includes/admin/class-block-gallery-feedback.php:94
+msgid "a year"
+msgstr "un año"
+
+#: languages/block-gallery-translations.php:417
+#: includes/admin/class-block-gallery-feedback.php:121
+msgid "an hour"
+msgstr "una hora"
+
+#: languages/block-gallery-translations.php:365
+msgid "https://richtabor.com/"
+msgstr "https://richtabor.com/"
+
+#: languages/block-gallery-translations.php:356
+msgid "https://wpblockgallery.com/"
+msgstr "https://wpblockgallery.com/"

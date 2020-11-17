@@ -1,0 +1,611 @@
+# Copyright (C) 2019 GoDaddy
+# This file is distributed under the same license as the Block Gallery plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Block Gallery 1.1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/block-gallery\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-16T22:22:25+00:00\n"
+"PO-Revision-Date: 2019-05-16T22:22:25+00:00\n"
+"X-Generator: WP-CLI 2.0.1\n"
+"X-Domain: block-gallery\n"
+
+# %s: Lowercase block title
+#: src/blocks/carousel/components/edit.js:196
+msgid "Drop to add to the %s"
+msgstr ""
+
+#: src/blocks/carousel/components/edit.js:232
+#: src/blocks/masonry/components/edit.js:177
+#: src/blocks/stacked/components/edit.js:150
+msgid "%s Gallery"
+msgstr ""
+
+#: src/blocks/carousel/components/edit.js:330
+#: src/components/gallery-image.js:193
+msgid "Write caption…"
+msgstr ""
+
+#: src/blocks/carousel/components/inspector.js:66
+#: src/blocks/masonry/components/inspector.js:85
+#: src/blocks/stacked/components/inspector.js:86
+msgid "%s Settings"
+msgstr ""
+
+#: src/blocks/carousel/components/inspector.js:71
+msgid "Size"
+msgstr ""
+
+#: src/blocks/carousel/components/inspector.js:84
+#: src/blocks/stacked/components/inspector.js:97
+#: src/components/responsive-tabs-control.js:36
+msgid "Gutter"
+msgstr ""
+
+#: src/blocks/carousel/components/inspector.js:89
+msgid "Height in pixels"
+msgstr ""
+
+#: src/blocks/carousel/components/inspector.js:97
+#: src/blocks/masonry/components/inspector.js:95
+#: src/blocks/stacked/components/inspector.js:101
+#: src/components/background/panel.js:175
+msgid "Rounded Corners"
+msgstr ""
+
+#: src/blocks/carousel/index.js:29
+msgid "Carousel"
+msgstr ""
+
+#: src/blocks/carousel/index.js:34
+#: src/blocks/masonry/index.js:34
+#: src/blocks/stacked/index.js:34
+msgid "gallery"
+msgstr ""
+
+#: src/blocks/carousel/index.js:35
+#: src/blocks/masonry/index.js:35
+#: src/blocks/stacked/index.js:35
+msgid "images"
+msgstr ""
+
+#: src/blocks/carousel/index.js:36
+#: src/blocks/masonry/index.js:36
+#: src/blocks/stacked/index.js:36
+msgid "photos"
+msgstr ""
+
+#: src/blocks/carousel/index.js:89
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr ""
+
+#: src/blocks/masonry/components/edit.js:142
+#: src/blocks/stacked/components/edit.js:126
+msgid "Drop to add to the %s gallery"
+msgstr ""
+
+#: src/blocks/masonry/components/inspector.js:105
+#: src/blocks/stacked/components/inspector.js:118
+msgid "Captions"
+msgstr ""
+
+#: src/blocks/masonry/components/inspector.js:112
+msgid "Caption Style"
+msgstr ""
+
+#: src/blocks/masonry/components/inspector.js:120
+#: src/blocks/stacked/components/inspector.js:131
+msgid "Link Settings"
+msgstr ""
+
+#: src/blocks/masonry/components/inspector.js:124
+#: src/blocks/stacked/components/inspector.js:135
+msgid "Link To"
+msgstr ""
+
+#: src/blocks/masonry/components/inspector.js:58
+#: src/blocks/stacked/components/inspector.js:55
+msgid "Showing captions for each media item."
+msgstr ""
+
+#: src/blocks/masonry/components/inspector.js:58
+#: src/blocks/stacked/components/inspector.js:55
+msgid "Toggle to show media captions."
+msgstr ""
+
+#: src/blocks/masonry/components/inspector.js:88
+msgid "Column Size"
+msgstr ""
+
+#: src/blocks/masonry/components/inspector.js:96
+msgid "Add rounded corners to the gallery items."
+msgstr ""
+
+#: src/blocks/masonry/index.js:29
+msgid "Masonry"
+msgstr ""
+
+#: src/blocks/masonry/index.js:53
+msgid "Display multiple images in an organized masonry gallery."
+msgstr ""
+
+#: src/blocks/stacked/components/inspector.js:111
+msgid "Box Shadow"
+msgstr ""
+
+#: src/blocks/stacked/components/inspector.js:51
+msgid "Fullwidth images are enabled."
+msgstr ""
+
+#: src/blocks/stacked/components/inspector.js:51
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr ""
+
+#: src/blocks/stacked/components/inspector.js:89
+msgid "Fullwidth Images"
+msgstr ""
+
+#: src/blocks/stacked/components/inspector.js:89
+msgid "Fullwidth Image"
+msgstr ""
+
+#: src/blocks/stacked/index.js:29
+msgid "Stacked"
+msgstr ""
+
+#: src/blocks/stacked/index.js:68
+msgid "Display multiple images in an single column stacked gallery."
+msgstr ""
+
+#: src/components/background/panel.js:131
+msgid "Top Left"
+msgstr ""
+
+#: src/components/background/panel.js:132
+msgid "Top Center"
+msgstr ""
+
+#: src/components/background/panel.js:133
+msgid "Top Right"
+msgstr ""
+
+#: src/components/background/panel.js:134
+msgid "Center Left"
+msgstr ""
+
+#: src/components/background/panel.js:135
+msgid "Center Center"
+msgstr ""
+
+#: src/components/background/panel.js:136
+msgid "Center Right"
+msgstr ""
+
+#: src/components/background/panel.js:137
+msgid "Bottom Left"
+msgstr ""
+
+#: src/components/background/panel.js:138
+msgid "Bottom Center"
+msgstr ""
+
+#: src/components/background/panel.js:139
+msgid "Bottom Right"
+msgstr ""
+
+#: src/components/background/panel.js:143
+msgid "No Repeat"
+msgstr ""
+
+#: src/components/background/panel.js:145
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: src/components/background/panel.js:146
+msgid "Repeat Vertically"
+msgstr ""
+
+#: src/components/background/panel.js:150
+msgid "Auto"
+msgstr ""
+
+#: src/components/background/panel.js:151
+msgid "Cover"
+msgstr ""
+
+#: src/components/background/panel.js:152
+msgid "Contain"
+msgstr ""
+
+#: src/components/background/panel.js:161
+msgid "Background Settings"
+msgstr ""
+
+#: src/components/background/panel.js:165
+msgid "Padding"
+msgstr ""
+
+#: src/components/background/panel.js:186
+msgid "Image Overlay"
+msgstr ""
+
+#: src/components/background/panel.js:195
+msgid "Position"
+msgstr ""
+
+#: src/components/background/panel.js:202
+msgid "Repeat"
+msgstr ""
+
+#: src/components/background/panel.js:209
+msgid "Display"
+msgstr ""
+
+#: src/components/background/panel.js:216
+msgid "Fixed Background"
+msgstr ""
+
+#: src/components/background/panel.js:226
+msgid "Remove Background Image"
+msgstr ""
+
+#: src/components/background/panel.js:233
+msgid "Color Settings"
+msgstr ""
+
+#: src/components/background/panel.js:87
+msgid "Background Color"
+msgstr ""
+
+#: src/components/background/panel.js:95
+msgid "Caption Text Color"
+msgstr ""
+
+#: src/components/background/toolbar.js:65
+msgid "Add Background Image"
+msgstr ""
+
+#: src/components/background/toolbar.js:74
+msgid "Remove background image"
+msgstr ""
+
+#: src/components/gallery-image.js:185
+msgid "Remove Image"
+msgstr ""
+
+#: src/components/gallery-placeholder.js:45
+msgid "Drag images, upload new ones or select files from your library."
+msgstr ""
+
+#: src/components/gallery-upload.js:96
+msgid "Upload an image"
+msgstr ""
+
+#: src/components/global/toolbar.js:103
+#: src/utils/filter-options.js:12
+msgid "Saturation"
+msgstr ""
+
+#: src/components/global/toolbar.js:108
+#: src/components/lightbox/options.js:11
+#: src/utils/caption-options.js:10
+#: src/utils/filter-options.js:13
+msgid "Dark"
+msgstr ""
+
+#: src/components/global/toolbar.js:113
+#: src/utils/filter-options.js:14
+msgid "Vintage"
+msgstr ""
+
+#: src/components/global/toolbar.js:118
+#: src/utils/filter-options.js:15
+msgid "Original"
+msgstr ""
+
+#: src/components/global/toolbar.js:80
+msgid "Edit Gallery"
+msgstr ""
+
+#: src/components/global/toolbar.js:89
+msgid "Apply Filter"
+msgstr ""
+
+#: src/components/global/toolbar.js:93
+#: src/utils/filter-options.js:10
+msgid "Grayscale"
+msgstr ""
+
+#: src/components/global/toolbar.js:98
+#: src/utils/filter-options.js:11
+msgid "Sepia"
+msgstr ""
+
+#: src/components/lightbox/control.js:45
+msgid "Enable Lightbox"
+msgstr ""
+
+#: src/components/lightbox/control.js:50
+msgid "Lightbox style"
+msgstr ""
+
+#: src/components/lightbox/options.js:10
+#: src/utils/caption-options.js:11
+msgid "Light"
+msgstr ""
+
+# Control name
+#: src/components/responsive-tabs-control.js:71
+msgid "Mobile %s"
+msgstr ""
+
+#: src/components/size-control.js:115
+msgid "Small"
+msgstr ""
+
+#: src/components/size-control.js:119
+msgid "Medium"
+msgstr ""
+
+#: src/components/size-control.js:182
+msgid "Select Size"
+msgstr ""
+
+#: src/components/size-control.js:200
+msgid "Reset"
+msgstr ""
+
+#: src/components/size-control.js:62
+msgid "Large"
+msgstr ""
+
+#: src/components/size-control.js:66
+msgid "Extra Large"
+msgstr ""
+
+#: src/components/slider-panel.js:28
+msgid "seconds"
+msgstr ""
+
+#: src/components/slider-panel.js:28
+msgid "second"
+msgstr ""
+
+# 1. Speed of the slider, 2: Time until the slide advances
+#: src/components/slider-panel.js:31
+msgid "Automatically advancing to the next gallery item after %1$d %2$s."
+msgstr ""
+
+# 1. Speed of the slider, 2: Time until the slide advances
+#: src/components/slider-panel.js:31
+msgid "Automatically advance to the next gallery item after a set duration."
+msgstr ""
+
+#: src/components/slider-panel.js:35
+msgid "Dragging and flicking enabled on desktop and mobile devices."
+msgstr ""
+
+#: src/components/slider-panel.js:35
+msgid "Toggle to enable drag functionality on desktop and mobile devices."
+msgstr ""
+
+#: src/components/slider-panel.js:39
+msgid "Showing slide navigation arrows."
+msgstr ""
+
+#: src/components/slider-panel.js:39
+msgid "Toggle to show slide navigation arrows."
+msgstr ""
+
+#: src/components/slider-panel.js:43
+msgid "Showing dot navigation arrows."
+msgstr ""
+
+#: src/components/slider-panel.js:43
+msgid "Toggle to show dot navigation."
+msgstr ""
+
+#: src/components/slider-panel.js:63
+msgid "Slider Settings"
+msgstr ""
+
+#: src/components/slider-panel.js:65
+msgid "Autoplay Slides"
+msgstr ""
+
+#: src/components/slider-panel.js:71
+msgid "Transition Speed"
+msgstr ""
+
+#: src/components/slider-panel.js:79
+msgid "Draggable"
+msgstr ""
+
+#: src/components/slider-panel.js:85
+msgid "Arrow Navigation"
+msgstr ""
+
+#: src/components/slider-panel.js:91
+msgid "Dot Navigation"
+msgstr ""
+
+#: src/utils/autoplay-options.js:10
+msgid "One Second"
+msgstr ""
+
+#: src/utils/autoplay-options.js:11
+msgid "Two Seconds"
+msgstr ""
+
+#: src/utils/autoplay-options.js:12
+msgid "Three Seconds"
+msgstr ""
+
+#: src/utils/autoplay-options.js:13
+msgid "Four Seconds"
+msgstr ""
+
+#: src/utils/autoplay-options.js:14
+msgid "Five Seconds"
+msgstr ""
+
+#: src/utils/autoplay-options.js:15
+msgid "Six Second"
+msgstr ""
+
+#: src/utils/autoplay-options.js:16
+msgid "Seven Seconds"
+msgstr ""
+
+#: src/utils/autoplay-options.js:17
+msgid "Eight Seconds"
+msgstr ""
+
+#: src/utils/autoplay-options.js:18
+msgid "Nine Seconds"
+msgstr ""
+
+#: src/utils/autoplay-options.js:19
+msgid "Ten Seconds"
+msgstr ""
+
+#: src/utils/caption-options.js:12
+#: src/utils/link-options.js:12
+msgid "None"
+msgstr ""
+
+#: src/utils/link-options.js:10
+msgid "Attachment Page"
+msgstr ""
+
+#: src/utils/link-options.js:11
+msgid "Media File"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Block Gallery"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpblockgallery.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "The most advanced suite of gallery blocks for the Gutenberg block editor. Create stunning <strong>masonry</strong>, <strong>carousel</strong> and <strong>stacked</strong> galleries in seconds, with the brilliantly intuitive interface. Block Gallery is absolutely the best collection of native editor gallery blocks in the world."
+msgstr ""
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr ""
+
+#: class-block-gallery.php:86
+#: class-block-gallery.php:98
+msgid "Cheating huh?"
+msgstr ""
+
+#: includes/admin/class-block-gallery-action-links.php:52
+msgid "Go Pro"
+msgstr ""
+
+#: includes/admin/class-block-gallery-action-links.php:85
+msgid "View Block Gallery Documentation"
+msgstr ""
+
+#: includes/admin/class-block-gallery-action-links.php:85
+msgid "Help & FAQs"
+msgstr ""
+
+#: includes/admin/class-block-gallery-action-links.php:86
+msgid "Review Block Gallery on WordPress.org"
+msgstr ""
+
+#: includes/admin/class-block-gallery-action-links.php:86
+#: includes/admin/class-block-gallery-feedback.php:282
+msgid "Leave a Review"
+msgstr ""
+
+#. translators: 1: Plugin Name, 2: Link to plugin review
+#: includes/admin/class-block-gallery-footer-text.php:44
+msgid "Enjoying %1$s? Please leave a %2$s rating — we appreciate your support!"
+msgstr ""
+
+#. translators: Number of years
+#: includes/admin/class-block-gallery-feedback.php:92
+msgid "%s years"
+msgstr ""
+
+#: includes/admin/class-block-gallery-feedback.php:94
+msgid "a year"
+msgstr ""
+
+#. translators: Number of weeks
+#: includes/admin/class-block-gallery-feedback.php:101
+msgid "%s weeks"
+msgstr ""
+
+#: includes/admin/class-block-gallery-feedback.php:103
+msgid "a week"
+msgstr ""
+
+#. translators: Number of days
+#: includes/admin/class-block-gallery-feedback.php:110
+msgid "%s days"
+msgstr ""
+
+#: includes/admin/class-block-gallery-feedback.php:112
+msgid "a day"
+msgstr ""
+
+#. translators: Number of hours
+#: includes/admin/class-block-gallery-feedback.php:119
+msgid "%s hours"
+msgstr ""
+
+#: includes/admin/class-block-gallery-feedback.php:121
+msgid "an hour"
+msgstr ""
+
+#. translators: Number of minutes
+#: includes/admin/class-block-gallery-feedback.php:128
+msgid "%s minutes"
+msgstr ""
+
+#: includes/admin/class-block-gallery-feedback.php:130
+msgid "a minute"
+msgstr ""
+
+#. translators: Number of seconds
+#: includes/admin/class-block-gallery-feedback.php:137
+msgid "%s seconds"
+msgstr ""
+
+#: includes/admin/class-block-gallery-feedback.php:139
+msgid "a second"
+msgstr ""
+
+#. translators: 1. Name
+#: includes/admin/class-block-gallery-feedback.php:271
+msgid "%1$s WordPress Plugin"
+msgstr ""
+
+#. translators: 1. Name
+#: includes/admin/class-block-gallery-feedback.php:275
+msgid "Are you enjoying %1$s?"
+msgstr ""
+
+#. translators: 1. Name, 2. Time
+#: includes/admin/class-block-gallery-feedback.php:278
+msgid "You have been using %1$s for %2$s now! Mind leaving a quick review to let us know know what you think? I'd really appreciate it!"
+msgstr ""
+
+#: includes/admin/class-block-gallery-feedback.php:283
+msgid "No thanks / I already have"
+msgstr ""

@@ -1,0 +1,84 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-09 17:56+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-xoo-wsc-cart.php:73
+msgid "Item added to cart"
+msgstr ""
+
+#: includes/class-xoo-wsc-cart.php:123
+msgid "Something went wrong"
+msgstr ""
+
+#: includes/class-xoo-wsc-cart.php:136
+msgid "Item removed"
+msgstr ""
+
+#: includes/class-xoo-wsc-cart.php:138
+msgid "Undo?"
+msgstr ""
+
+#: includes/class-xoo-wsc-cart.php:142
+msgid "Item updated"
+msgstr ""
+
+#: includes/class-xoo-wsc-cart.php:201
+msgid "Subtotal"
+msgstr ""
+
+#: includes/class-xoo-wsc-frontend.php:82
+msgid "Only %s% in stock"
+msgstr ""
+
+#: includes/class-xoo-wsc-frontend.php:83
+msgid "Quantity can only be purchased in multiple of %s%"
+msgstr ""
+
+#: includes/class-xoo-wsc-frontend.php:84
+msgid "Please use checkout form to calculate shipping"
+msgstr ""
+
+#: includes/class-xoo-wsc-frontend.php:85
+msgid "Please enter promo code"
+msgstr ""
+
+#: includes/xoo-framework/class-xoo-helper.php:242
+msgid "You're using outdated version of templates, please fetch a new copy from the plugin templates folder"
+msgstr ""
+
+#: includes/xoo-framework/class-xoo-helper.php:252
+msgid "Templates Status"
+msgstr ""
+
+#: includes/xoo-framework/class-xoo-helper.php:254
+msgid "How to override?"
+msgstr ""
+
+#: templates/global/body/product.php:68
+msgid "shoppers have bought this"
+msgstr ""
+
+#: templates/global/body/product.php:84
+msgid "Price: "
+msgstr ""
+
+#: templates/global/body/product.php:100
+msgid "Qty:"
+msgstr ""
+
+#: templates/xoo-wsc-body.php:38
+msgid "Empty Cart"
+msgstr ""

@@ -1,0 +1,193 @@
+# Translation of Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-27 21:27:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release)\n"
+
+#: src/welcome/index.php:120 src/welcome/index.php:347
+msgid "Documentation"
+msgstr "Documentación"
+
+#: src/welcome/index.php:361 src/welcome/index.php:367
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+#: src/welcome/index.php:226
+msgid "🗞 Stackable Blog"
+msgstr "🗞 Blog de Stackable"
+
+#: src/welcome/index.php:213
+msgid "Get Stackable Premium"
+msgstr "Obtener Stackable Premium"
+
+#: src/welcome/index.php:209
+msgid "No Ads"
+msgstr "Sin anuncios"
+
+#: src/welcome/index.php:323
+msgid "Create New Page"
+msgstr "Crear nueva página"
+
+#: src/welcome/index.php:368
+msgid "Stuck with something? Email us and we’ll help you out."
+msgstr "¿Atascado con algo? Envíanos un correo electrónico y te ayudaremos."
+
+#: src/welcome/index.php:199
+msgid "If you are ready for even more, upgrade to Premium and get:"
+msgstr "Si estás listo para más, actualiza a Premium y obtén:"
+
+#: src/welcome/index.php:103 src/welcome/index.php:394 dist/editor_blocks.js:1
+#: dist/admin_welcome.js:41
+msgid "Settings"
+msgstr "Ajustes"
+
+#: src/welcome/index.php:198
+msgid "🚀 Stackable Premium"
+msgstr "🚀 Stackable Premium"
+
+#: src/pro.php:132
+msgid "We hope you're enjoying Stackable. If you want more, you may want to check out %sStackable Premium%s. Ready to upgrade and do more? %sGo premium now%s"
+msgstr "Esperamos que estés disfrutando de Stackable. Si quieres más, puede que quieras revisar %sStackable Premium%s. ¿Preparado para actualizar y hacer más? %sHazte Premium ahora%s"
+
+#: src/welcome/index.php:229
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: src/welcome/index.php:228
+msgid "Keep up to date by subscribing to our newsletter."
+msgstr "Mantente al día suscribiéndote a nuestro boletín."
+
+#: src/welcome/index.php:129 src/welcome/index.php:162
+#: src/welcome/index.php:175 src/welcome/index.php:403 dist/editor_blocks.js:1
+#: dist/admin_welcome.js:41
+msgid "Go Premium"
+msgstr "Ir al premium"
+
+#: src/welcome/index.php:184
+msgid "🎛 Enable & Disable Blocks"
+msgstr "🎛 Activar o desactivar los bloques"
+
+#: src/welcome/index.php:185
+msgid "(If your post contains a disabled block, it will still continue to work. You won't just be able to add the disabled blocks.)"
+msgstr "(Si tu publicación contiene un bloque desactivado, seguirá funcionando. Solo que no podrás añadir los bloques desactivados)."
+
+#: src/welcome/news.php:103 src/block/disabled-blocks.php:36
+msgid "Security error, please refresh the page and try again."
+msgstr "Error de seguridad, por favor, refresca la página e inténtalo de nuevo."
+
+#: src/welcome/index.php:185
+msgid "We have a lot of awesome blocks. But if you're overwhelmed with awesomeness, you can hide some of them."
+msgstr "Tenemos un montón de fantásticos bloques. Pero si estás abrumado por el espectáculo, puedes ocultar algunos de ellos."
+
+#: src/welcome/index.php:354 dist/editor_blocks.js:1
+msgid "Read More"
+msgstr "Leer más"
+
+#: plugin.php:74
+msgid "\"Stackable\" requires PHP version 5.3.0 or higher, but PHP version %s is used on the site."
+msgstr "«Stackable» necesita la versión de PHP 5.3.0 o superior, pero la versión de PHP que está usando tu sitio es la %s."
+
+#: plugin.php:49
+msgid "%s\"Stackable\" can not be activated. %s It requires PHP version 5.3.0 or higher, but PHP version %s is used on the site. Please upgrade your PHP version first ✌️ %s Back %s"
+msgstr "«Stackable» %s no puede ser activado. %s necesita la versión de PHP 5.3.0 o superior, pero la versión de PHP que utiliza tu sitio es la %s. Por favor, primero actualiza tu versión de PHP ✌️ %s Atrás %s"
+
+#: src/welcome/index.php:216 src/welcome/index.php:363 dist/editor_blocks.js:1
+#: dist/admin_welcome.js:41
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: src/block/blog-posts/index.php:242 src/block/blog-posts/index.php:498
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d comentario"
+msgstr[1] "%d comentarios"
+
+#: src/welcome/notification.php:77
+msgid "%s notification"
+msgid_plural "%s notifications"
+msgstr[0] "%s aviso"
+msgstr[1] "%s avisos"
+
+#: src/block/blog-posts/index.php:204 dist/editor_blocks.js:1
+msgid "(Untitled)"
+msgstr "(Sin título)"
+
+#: src/block/blog-posts/index.php:218 src/block/blog-posts/index.php:509
+msgid ", "
+msgstr ", "
+
+#: src/block/blog-posts/index.php:412
+msgid "Author information"
+msgstr "Información del autor"
+
+#: src/block/blog-posts/index.php:269 dist/editor_blocks.js:1
+msgid "Continue reading"
+msgstr "Continuar leyendo"
+
+#: src/block/blog-posts/index.php:424
+msgid "Number of comments"
+msgstr "Número de comentarios"
+
+#: src/block/blog-posts/index.php:400
+msgid "Category list links"
+msgstr "Enlaces de la lista de categorías"
+
+#: src/block/blog-posts/index.php:388
+msgid "Post excerpt for Stackable"
+msgstr "Extracto de la entrada para Stackable"
+
+#: src/welcome/notification.php:138
+msgid "Don't show me this anymore"
+msgstr "No vuelvas a mostrármelo"
+
+#: src/welcome/notification-rate.php:41
+msgid "We've noticed that you've been using Stackable for some time now, we hope you are loving it! We would appreciate it if you can %sgive us a 5 star rating on WordPress.org%s!"
+msgstr "Hemos visto que has estado usando Stackable durante un tiempo, ¡esperamos que te esté gustando! Agradeceríamos si puedes ¡%svalorarnos con 5 estrellas en WordPress.org%s!"
+
+#: src/block/blog-posts/index.php:376
+msgid "Different sized featured images"
+msgstr "Imágenes destacadas de varios tamaños"
+
+#: src/welcome/notification.php:132
+msgid "👉 Notifications"
+msgstr "👉 Avisos"
+
+#. Plugin Name of the plugin
+msgid "Stackable - Gutenberg Blocks"
+msgstr "Stackable - Gutenberg Blocks"
+
+#. Plugin URI of the plugin
+msgid "https://wpstackable.com"
+msgstr "https://wpstackable.com"
+
+#: src/welcome/index.php:223
+msgid "Subscribe & Download"
+msgstr "Suscribirse y descargar"
+
+#: src/welcome/index.php:29 src/welcome/index.php:30 src/welcome/index.php:141
+#: dist/editor_blocks.js:1 dist/editor_blocks.js:2
+msgid "Stackable"
+msgstr "Stackable"
+
+#: src/welcome/index.php:221
+msgid "🍺 Free Theme Download"
+msgstr "🍺 Descarga gratuita del tema"
+
+#: src/welcome/index.php:222
+msgid "Get our FREE WordPress theme that's beautiful & flexible, and made especially for Stackable blocks and the new WordPress editor. Subscribe to our newsletter to get the Stackable Theme now."
+msgstr "Obtén nuestro tema GRATUITO para WordPress que es bonito, flexible y hecho especialmente para los bloques de Stackable y el nuevo editor de WordPress. Suscríbete a nuestro boletín para obtener ahora el tema Stackable."
+
+#. Author URI of the plugin
+msgid "http://gambit.ph"
+msgstr "http://gambit.ph"
+
+#. Author of the plugin
+msgid "Gambit Technologies, Inc"
+msgstr "Gambit Technologies, Inc"

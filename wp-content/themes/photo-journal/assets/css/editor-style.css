@@ -1,0 +1,1015 @@
+/*
+Theme Name: Photo Journal Pro
+Description: Used to style the TinyMCE editor.
+*/
+
+/**
+ * Table of Contents
+ *
+ * 1.0 - Body
+ * 2.0 - Typography
+ * 3.0 - Elements
+ * 4.0 - Padding/Margin
+ * 5.0 - Forms
+ * 6.0 - Links
+ * 7.0 - Alignments
+ * 8.0 - Posts and pages
+ * 9.0 - Captions
+ * 10.0 - Galleries
+ * 11.0 - Transition
+ * 12.0 - Media Queries
+ *	  12.1 - >= 568px
+ *    12.2 - >= 1366px
+ *    12.3 - >= 1600px
+ * 13.0 - Colors
+ * 14.0 - RTL
+ */
+
+/**
+ * 1.0 - Body
+ */
+
+body {
+	margin: 30px 25px;
+	max-width: 1040px;
+	vertical-align: baseline;
+}
+
+
+/**
+ * 2.0 - Typography
+ */
+
+
+body,
+input,
+select,
+textarea {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: 300;
+	line-height: 1.59;
+}
+
+.drop-cap:first-letter {
+	font-size: 108px;
+	font-size: 6.75rem;
+}
+
+.more-link,
+.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.more-button {
+	font-size: 16px;
+	font-size: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+	font-weight: 700;
+	margin: 0;
+	text-rendering: optimizeLegibility;
+}
+
+p {
+	margin: 0 0 1.272727272727273em;
+}
+
+dfn,
+cite,
+em,
+i {
+	font-style: italic;
+}
+
+blockquote:before {
+    content: "\201C";
+    display: block;
+    font-family: Georgia;
+    font-size: 56px;
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 1;
+    position: absolute;
+    left: 0;
+    top: 3px;
+}
+
+blockquote {
+	font-size: 20px;
+	font-size: 1.25rem;
+	font-weight: 700;
+	line-height: 1.458333333333333;
+	margin: 0 0 1.166666666666667em;
+	padding: 0 0 0 2.041666666666667em;
+	position: relative;
+}
+
+blockquote p {
+	margin-bottom: 1.167em;
+}
+
+blockquote cite,
+blockquote small {
+	display: block;
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: normal;
+}
+
+blockquote em,
+blockquote i,
+blockquote cite {
+	font-style: italic;
+}
+
+blockquote > :last-child {
+	margin-bottom: 0;
+}
+
+address {
+	font-style: normal;
+	margin: 0 0 1.750em;
+}
+
+code,
+kbd,
+tt,
+var,
+samp,
+pre {
+	font-family: Inconsolata, monospace;
+	font-style: normal;
+}
+
+pre {
+	font-size: 17px;
+	font-size: 1.0625rem;
+	line-height: 1.647058823529412;
+	margin: 0 0 1.647058823529412em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.75em;
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+mark,
+ins,
+code {
+	padding: 0.125em 0.25em;
+}
+
+abbr,
+acronym {
+	border-bottom: 1px dotted #eee;
+	cursor: help;
+}
+
+mark,
+ins {
+	text-decoration: none;
+}
+
+big {
+	font-size: 125%;
+}
+
+
+/**
+ * 3.0 - Elements
+ */
+
+
+html {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	/* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	margin: 0 0 1.750em;
+}
+
+ul,
+ol {
+	margin: 0 0 1.750em 1.3125em;
+	padding: 0;
+}
+
+ul {
+	list-style: disc;
+}
+
+ol {
+	list-style: decimal;
+}
+
+li > ul,
+li > ol {
+	margin-bottom: 0;
+}
+
+dl {
+	margin: 0 0 1.750em;
+}
+
+dt {
+	font-weight: 700;
+}
+
+dd {
+	margin: 0 1.3125em 1.750em;
+}
+
+img {
+	height: auto;
+	/* Make sure images are scaled correctly. */
+	max-width: 100%;
+	/* Adhere to container width. */
+	vertical-align: middle;
+}
+
+del {
+	opacity: 0.8;
+}
+
+tbody tr {
+	border-bottom: 1px solid;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin: 0 0 1.750em;
+	table-layout: fixed;
+	/* Prevents HTML tables from becoming too wide */
+	width: 100%;
+}
+
+caption {
+	font-weight: 500;
+	text-align: center;
+}
+
+th,
+td {
+	font-weight: normal;
+	text-align: left;
+}
+
+thead th {
+	font-weight: 700;
+}
+
+th a {
+	font-weight: 700;
+	text-decoration: none;
+}
+
+caption,
+th,
+td {
+	padding: 0.412em 0.824em;
+}
+
+.drop-cap:first-letter {
+	float: left;
+	font-weight: 700;
+	line-height: 0.6;
+	margin: 14px 16px 0 -3px;
+}
+
+.wp-caption .wp-caption-text {
+	padding: 14px 21px;
+}
+
+.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	padding: 14px 21px;
+}
+
+input[type="date"],
+input[type="time"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="number"],
+textarea {
+	padding: 12px 14px;
+}
+
+
+/**
+ * 5.0 - Forms
+ */
+
+
+input {
+	line-height: normal;
+}
+
+.button,
+input[type="button"],
+input[type="button"][disabled]:hover,
+input[type="button"][disabled]:focus,
+input[type="reset"],
+input[type="reset"][disabled]:hover,
+input[type="reset"][disabled]:focus,
+input[type="submit"],
+input[type="submit"][disabled]:hover,
+input[type="submit"][disabled]:focus {
+	border: 0;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	display: inline-block;
+	font-size: 16px;
+	font-size: 1rem;
+	font-weight: 700;
+	padding: 14px 21px;
+	line-height: 1.3125;
+	letter-spacing: 0.05em;
+	text-align: center;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+input[type="reset"]:focus,
+input[type="submit"]:focus {
+	outline: thin dotted;
+	outline-offset: -4px;
+}
+
+input[type="date"],
+input[type="time"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="number"],
+form textarea {
+	border-color: transparent;
+	-webkit-appearance: none;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	font-size: 18px;
+	font-size: 1.125rem;
+	letter-spacing: 0.05em;
+	margin-top: 7px;
+	width: 100%;
+}
+
+input[type="search"].search-field {
+	margin: 0;
+	padding-right: 41px;
+}
+
+input[type="date"]:focus,
+input[type="time"]:focus,
+input[type="datetime-local"]:focus,
+input[type="week"]:focus,
+input[type="month"]:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="number"]:focus,
+textarea:focus {
+	outline: 0;
+}
+
+form label {
+	display: block;
+	font-size: 18px;
+	font-size: 1.125rem;
+	text-align: left;
+}
+
+.post-password-form {
+	margin-bottom: 1.75em;
+}
+
+.post-password-form label {
+	display: block;
+	margin-bottom: 1.75em;
+	text-transform: uppercase;
+}
+
+.post-password-form input[type="password"] {
+	margin-top: 0.824em;
+}
+
+.post-password-form > :last-child {
+	margin-bottom: 0;
+}
+
+
+/**
+ * 6.0 - Links
+ */
+
+
+a {
+	text-decoration: none;
+}
+
+a:focus {
+	outline: thin dotted;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+}
+
+
+/**
+ * 7.0 - Alignments
+ */
+
+
+.alignleft {
+	float: left;
+	margin: 0 2.041666666666667em 1.458333333333333em 0;
+}
+
+.alignright {
+	float: right;
+	margin: 0 0 1.458333333333333em 2.041666666666667em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto 1.750em;
+}
+
+img.alignleft,
+figure.alignleft {
+	margin: 0.3888888888888889em 2.722222222222222em 1.944444444444444em 0;
+}
+
+img.alignright,
+figure.alignright {
+	margin: 0.3888888888888889em 0 1.944444444444444em 2.722222222222222em;
+}
+
+
+/**
+ * 8.0 - Posts and pages
+ */
+
+
+h1 {
+	font-size: 32px;
+	font-size: 2rem;
+	line-height: 1.166666666666667;
+	margin-top: 0.8166666666666667em;
+	margin-bottom: 0.4666666666666667em;
+}
+
+h2 {
+	margin-top: 1.065217391304348em;
+	margin-bottom: 0.608695652173913em;
+}
+
+h2 {
+	font-size: 28px;
+	font-size: 1.75rem;
+	line-height: 1.166666666666667;
+}
+
+h3 {
+	font-size: 24px;
+	font-size: 1.5rem;
+	line-height: 1.4;
+	margin-top: 1.53125em;
+	margin-bottom: 0.875em;
+}
+
+h4 {
+	font-size: 20px;
+	font-size: 1.25rem;
+	line-height: 1.4583;
+	margin-top: 2.041666666666667em;
+	margin-bottom: 1.166666666666667em;
+}
+
+h5 {
+	font-size: 18px;
+	font-size: 1.125rem;
+	line-height: 1.55;
+	margin-top: 2.722222222222222em;
+	margin-bottom: 1.555555555555556em;
+}
+
+h6 {
+	font-size: 16px;
+	font-size: 1rem;
+	line-height: 1.5;
+	margin-top: 3.0625em;
+	margin-bottom: 1.75em;
+}
+
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child {
+	margin-top: 0;
+}
+
+.more-button {
+	font-weight: 700;
+	letter-spacing: 0.05em;
+	line-height: 1.5;
+	text-transform: capitalize;
+}
+
+.view-more {
+	clear: both;
+	margin: 0 0 35px;
+	padding: 0 30px;
+	text-align: center;
+}
+
+/* Make sure embeds and iframes fit their containers. */
+embed,
+iframe,
+object,
+video {
+	margin-bottom: 1.75em;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+p > embed,
+p > iframe,
+p > object,
+p > video {
+	margin-bottom: 0;
+}
+
+
+/**
+ * 9.0 - Captions
+ */
+
+
+.wp-caption {
+	margin-bottom: 1.75em;
+	max-width: 100%;
+}
+
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin: 0;
+}
+
+.wp-caption .wp-caption-text {
+	border: 1px solid;
+	font-style: italic;
+	text-align: center;
+}
+
+
+/**
+ * 10.0 - Galleries
+ */
+
+
+.gallery {
+	margin: 0 -1.1666667% 1.75em;
+}
+
+.gallery-item {
+	display: inline-block;
+	max-width: 33.33%;
+	padding: 0 1.1400652% 2.2801304%;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+
+.gallery-columns-1 .gallery-item {
+	max-width: 100%;
+}
+
+.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+
+.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+
+.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+
+.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+
+.gallery-columns-7 .gallery-item {
+	max-width: 14.28%;
+}
+
+.gallery-columns-8 .gallery-item {
+	max-width: 12.5%;
+}
+
+.gallery-columns-9 .gallery-item {
+	max-width: 11.11%;
+}
+
+.gallery-icon img {
+	margin: 0 auto;
+}
+
+.gallery-caption {
+	display: block;
+	font-style: italic;
+	padding-top: 7px;
+}
+
+.gallery-columns-6 .gallery-caption,
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption {
+	display: none;
+}
+
+
+/**
+ * 11.0 - Transition
+ */
+
+a,
+.button,
+input[type="reset"],
+input[type="reset"][disabled]:hover,
+input[type="reset"][disabled]:focus,
+input[type="submit"],
+input[type="submit"][disabled]:hover,
+input[type="submit"][disabled]:focus,
+input[type="date"],
+input[type="time"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="number"],
+textarea {
+	-webkit-transition: 0.5s ease;
+	-moz-transition: 0.5s ease;
+	-o-transition: 0.5s ease;
+	-ms-transition: 0.5s ease;
+	transition: 0.5s ease;
+}
+
+/**
+ * 12.0 - Media Queries
+ */
+
+
+/**
+ * Does the same thing as <meta name="viewport" content="width=device-width">,
+ * but in the future W3C standard way. -ms- prefix is required for IE10+ to
+ * render responsive styling in Windows 8 "snapped" views; IE10+ does not honor
+ * the meta tag. See https://core.trac.wordpress.org/ticket/25888.
+ */
+
+@-ms-viewport {
+	width: device-width;
+}
+
+@viewport {
+	width: device-width;
+}
+
+
+/**
+ * 12.1 - >= 568px
+ */
+
+
+@media screen and (min-width: 35.5em) {
+	.button,
+	input[type="reset"],
+	input[type="reset"][disabled]:hover,
+	input[type="reset"][disabled]:focus,
+	input[type="submit"],
+	input[type="submit"][disabled]:hover,
+	input[type="submit"][disabled]:focus {
+		padding: 14px 35px;
+	}
+
+	blockquote.alignright,
+	blockquote.alignleft {
+		width: 50%;
+	}
+}
+
+
+/**
+ * 12.2 ->= 1366px
+ */
+
+
+@media screen and (min-width: 85.375em) {
+	h1 {
+		font-size: 46px;
+		font-size: 2.875rem;
+	}
+
+	h2 {
+		font-size: 37px;
+		font-size: 2.3125rem;
+	}
+
+	h3 {
+		font-size: 28px;
+		font-size: 1.75rem;
+	}
+
+	h4,
+	blockquote {
+		font-size: 24px;
+		font-size: 1.5rem;
+	}
+
+	caption,
+	th,
+	td {
+		padding: 14px 28px;
+	}
+}
+
+
+/**
+ * 12.3 - >= 1600px
+ */
+
+
+@media screen and (min-width: 100em) {
+	body,
+	input,
+	select,
+	textarea {
+		font-size: 22px;
+		font-size: 1.375rem;
+	}
+
+	h1 {
+		font-size: 60px;
+		font-size: 3.75rem;
+	}
+
+	h2 {
+		font-size: 46px;
+		font-size: 2.875rem;
+	}
+
+	h3 {
+		font-size: 32px;
+		font-size: 2rem;
+	}
+}
+
+
+/**
+ * 13.0 - Colors
+ */
+
+
+/* Background Color */
+body {
+	background: #000;
+	/* Fallback for when there is no custom background color defined. */
+}
+
+/* Secondary Background Color */
+hr,
+pre,
+thead th,
+mark,
+ins,
+input[type="date"]:focus,
+input[type="time"]:focus,
+input[type="datetime-local"]:focus,
+input[type="week"]:focus,
+input[type="month"]:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="number"]:focus,
+textarea:focus {
+	background-color: #222;
+}
+
+/* Main Text Color */
+body,
+input,
+select,
+textarea {
+	color: #afafaf;
+}
+
+th a {
+	color: #afafaf;
+}
+
+/* Button Text Color */
+.button,
+.button:hover,
+.button:focus,
+input[type="reset"],
+input[type="reset"][disabled]:hover,
+input[type="reset"][disabled]:focus,
+input[type="submit"],
+input[type="submit"][disabled]:hover,
+input[type="submit"][disabled]:focus,
+mark,
+ins {
+	color: #fff;
+}
+
+/* Button Background Color */
+.button,
+input[type="reset"],
+input[type="reset"][disabled]:hover,
+input[type="reset"][disabled]:focus,
+input[type="submit"],
+input[type="submit"][disabled]:hover,
+input[type="submit"][disabled]:focus {
+	background-color: #5f4b8b;
+}
+
+/* Button Hover Background Color */
+.button:hover,
+.button:focus,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+	background-color: #555;
+}
+
+/* Secondary Link Color */
+input[type="date"],
+input[type="time"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="number"],
+textarea {
+	color: #999;
+}
+
+/* Link Color */
+a,
+input[type="date"]:focus,
+input[type="time"]:focus,
+input[type="datetime-local"]:focus,
+input[type="week"]:focus,
+input[type="month"]:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="number"]:focus,
+textarea:focus {
+	color: #fff;
+}
+
+/* Link Hover Color */
+a:hover,
+a:focus,
+a:active,
+blockquote:before,
+th a:hover,
+th a:focus {
+	color: #999;
+}
+
+/* Headline Text Color */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.drop-cap:first-letter {
+	color: #fff;
+}
+
+/* Border Color */
+tbody tr {
+	border-color: #1c1c1c;
+}
+
+input[type="date"],
+input[type="time"],
+input[type="datetime-local"],
+input[type="week"],
+input[type="month"],
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="number"],
+textarea {
+	background-color: #1c1c1c;
+}
+
+/**
+ * 14.0 - RTL
+ */
+
+.rtl .drop-cap:first-letter {
+    float: right;
+    margin: 7px  7px -3px  16px;
+}
+
+.rtl ul,
+.rtl ol {
+	margin: 0 1.647em 2.059em 0;
+}
+
+.rtl li > ul,
+.rtl li > ol {
+    margin-bottom: 0;
+}
+
+.rtl th,
+.rtl .mce-item-table th,
+.rtl td,
+.rtl .mce-item-table td {
+	text-align: right;
+}
+
+.rtl blockquote:before {
+    left: unset;
+    right: 0;
+    top: -20px;
+    transform: rotate(180deg);
+}
+
+.rtl blockquote {
+    padding: 0 2.041666666666667em 0 0;
+}

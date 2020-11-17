@@ -1,0 +1,1097 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Olsen Light\n"
+"POT-Creation-Date: 2020-08-10 18:56+0300\n"
+"PO-Revision-Date: 2015-10-10 19:53+0300\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:15
+msgid "The page you were looking for can not be found! Perhaps try searching?"
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: content-entry.php:66 part-slider.php:69
+msgid "Continue Reading"
+msgstr ""
+
+#: footer.php:51
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"%2$s\">Olsen WordPress Theme</a> by <a href=\"%3$s"
+"\">CSSIgniter</a>"
+msgstr ""
+
+#: footer.php:53
+msgid "Blogging theme for WordPress"
+msgstr ""
+
+#: footer.php:67
+msgid "Close Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:42
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:43
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:44
+msgid "Mobile Menu"
+msgstr ""
+
+#: header.php:78
+msgid "Menu"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:10
+msgid "Did you know there is a <strong>pro</strong> version?"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:15
+msgid "Light"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:16
+msgid "Pro"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:19
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:20 inc/class-onboarding-page-lite.php:21
+#: inc/class-onboarding-page-lite.php:25 inc/class-onboarding-page-lite.php:26
+#: inc/class-onboarding-page-lite.php:30 inc/class-onboarding-page-lite.php:31
+#: inc/class-onboarding-page-lite.php:35 inc/class-onboarding-page-lite.php:36
+#: inc/class-onboarding-page-lite.php:40 inc/class-onboarding-page-lite.php:41
+#: inc/class-onboarding-page-lite.php:45 inc/class-onboarding-page-lite.php:46
+#: inc/class-onboarding-page-lite.php:51 inc/class-onboarding-page-lite.php:56
+#: inc/class-onboarding-page-lite.php:61 inc/class-onboarding-page-lite.php:66
+#: inc/class-onboarding-page-lite.php:71 inc/class-onboarding-page-lite.php:76
+#: inc/class-onboarding-page-lite.php:81 inc/class-onboarding-page-lite.php:86
+#: inc/class-onboarding-page-lite.php:91 inc/class-onboarding-page-lite.php:96
+msgid "Yes"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:24 inc/customizer/customizer.php:100
+#: inc/customizer/options/theme-upgrade.php:17
+msgid "Documentation"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:29
+msgid "Upload Your Own Logo"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:34
+msgid "Social Networking Options"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:39
+msgid "Page Builder Support"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:44
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:49
+msgid "WooCommerce Support"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:50 inc/class-onboarding-page-lite.php:55
+#: inc/class-onboarding-page-lite.php:60 inc/class-onboarding-page-lite.php:65
+#: inc/class-onboarding-page-lite.php:70 inc/class-onboarding-page-lite.php:75
+#: inc/class-onboarding-page-lite.php:80 inc/class-onboarding-page-lite.php:85
+#: inc/class-onboarding-page-lite.php:90 inc/class-onboarding-page-lite.php:95
+msgid "No"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:54
+msgid "Multiple Layouts"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:59
+msgid "Color Customization Options"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:64
+msgid "Typography Customization Options"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:69
+msgid "Post/Page Element Visibility Options"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:74
+msgid "Post Greeting Options"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:79
+msgid "Post Formats"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:84
+msgid "Author Box"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:89
+msgid "Sticky Navigation"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:94
+msgid "Priority Support"
+msgstr ""
+
+#: inc/class-onboarding-page-lite.php:102
+msgid "Upgrade Today!"
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:93
+msgid "Show slider."
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:100
+msgid "Auto slide."
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:129
+msgid "Source category"
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:136
+msgid "Post IDs"
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:137
+msgid ""
+"You can optionally provide a comma separated list of post IDs. The specific "
+"posts will be shown, overriding the source category above. The limit number "
+"is still honoured however."
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:144
+msgid ""
+"Check the box below to display your recent posts from all categories. The "
+"limit number is still in place and can be modified below."
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:146
+msgid "Show Recent Posts."
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:152
+msgid "Limit posts:"
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:159
+msgid "Slide change effect:"
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:161
+msgctxt "slick slider slide effect"
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:162
+msgctxt "slick slider slide effect"
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:169
+msgid "Pause between slides (in milliseconds):"
+msgstr ""
+
+#: inc/customizer/customizer-controls/slick.php:177
+msgid "Hide post content box"
+msgstr ""
+
+#: inc/customizer/customizer.php:11
+msgctxt "customizer section title"
+msgid "Top Bar Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:12
+msgid ""
+"To show/hide the top bar set/unset the menu in the top bar menu location."
+msgstr ""
+
+#: inc/customizer/customizer.php:19
+msgctxt "customizer section title"
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:28
+msgctxt "customizer section title"
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:35
+msgctxt "customizer section title"
+msgid "Front Page Carousel"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+msgctxt "customizer section title"
+msgid "Social Networks"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid ""
+"Enter your social network URLs. Leaving a URL empty will hide its respective "
+"icon."
+msgstr ""
+
+#: inc/customizer/customizer.php:56
+msgctxt "customizer section title"
+msgid "Posts Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+msgid "These options affect your individual posts."
+msgstr ""
+
+#: inc/customizer/customizer.php:64
+msgctxt "customizer section title"
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:76
+msgctxt "customizer section title"
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:101 inc/onboarding.php:101
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/customizer/options/footer.php:9 inc/customizer/options/header.php:9
+#: inc/customizer/options/top-bar.php:9
+msgid "Show social icons."
+msgstr ""
+
+#: inc/customizer/options/footer.php:19
+msgid "Show credits text."
+msgstr ""
+
+#: inc/customizer/options/footer.php:31
+msgid "Enable Instagram Slideshow."
+msgstr ""
+
+#: inc/customizer/options/footer.php:41
+msgid "Instagram Slideshow Speed."
+msgstr ""
+
+#: inc/customizer/options/header.php:19
+msgid "Show search form."
+msgstr ""
+
+#: inc/customizer/options/homepage.php:4
+msgid "Home Slider"
+msgstr ""
+
+#: inc/customizer/options/homepage.php:5
+msgid "Fine-tune the homepage slider."
+msgstr ""
+
+#: inc/customizer/options/layout.php:3
+msgctxt "page layout"
+msgid "Classic - One Sidebar"
+msgstr ""
+
+#: inc/customizer/options/layout.php:4
+msgctxt "page layout"
+msgid "Two columns - Sidebar"
+msgstr ""
+
+#: inc/customizer/options/layout.php:13
+msgid "Blog layout"
+msgstr ""
+
+#: inc/customizer/options/layout.php:14
+msgid "Applies to the home page and blog-related pages."
+msgstr ""
+
+#: inc/customizer/options/layout.php:25
+msgid "Categories and Tags layout"
+msgstr ""
+
+#: inc/customizer/options/layout.php:26
+msgid "Applies to the categories and tags listing pages."
+msgstr ""
+
+#: inc/customizer/options/layout.php:41
+msgid "Automatically generated excerpt length (in words)"
+msgstr ""
+
+#: inc/customizer/options/layout.php:51
+msgid "Display the excerpt instead of the content."
+msgstr ""
+
+#: inc/customizer/options/layout.php:61
+msgid "Pagination method"
+msgstr ""
+
+#: inc/customizer/options/layout.php:63
+msgctxt "pagination method"
+msgid "Numbered links"
+msgstr ""
+
+#: inc/customizer/options/layout.php:64
+msgctxt "pagination method"
+msgid "\"Previous - Next\" links"
+msgstr ""
+
+#: inc/customizer/options/layout.php:75
+msgid "Show related posts in blog listing. Applies to classic layouts only."
+msgstr ""
+
+#: inc/customizer/options/layout.php:79
+#: inc/customizer/options/single-post.php:3 part-related.php:4
+#: part-related.php:5 part-related.php:6 part-related.php:7
+msgid "You may also like"
+msgstr ""
+
+#: inc/customizer/options/layout.php:85
+msgid "Blog Related Posts section title."
+msgstr ""
+
+#: inc/customizer/options/single-post.php:9
+msgid "Related Posts section title"
+msgstr ""
+
+#: inc/customizer/options/site-tagline.php:8
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/options/site-tagline.php:9
+msgid ""
+"If an image is selected, it will replace the default textual logo (site "
+"name) on the header."
+msgstr ""
+
+#: inc/customizer/options/site-tagline.php:19
+msgid "Logo top padding"
+msgstr ""
+
+#: inc/customizer/options/site-tagline.php:29
+msgid "Logo bottom padding"
+msgstr ""
+
+#: inc/customizer/options/site-tagline.php:38
+msgid "Footer logo"
+msgstr ""
+
+#: inc/customizer/options/site-tagline.php:39
+msgid ""
+"If an image is selected, it will replace the default textual logo (site "
+"name) on the footer."
+msgstr ""
+
+#: inc/customizer/options/social.php:9
+msgid "Site-wide social icons."
+msgstr ""
+
+#: inc/customizer/options/social.php:10
+msgid ""
+"Shows floating icons on the side of your website. Not visible on mobile "
+"devices."
+msgstr ""
+
+#: inc/customizer/options/social.php:20
+msgid "Open social and sharing links in a new tab."
+msgstr ""
+
+#: inc/customizer/options/social.php:33
+#, php-format
+msgctxt "social network url"
+msgid "%s URL"
+msgstr ""
+
+#: inc/customizer/options/social.php:44
+msgid "RSS Feed"
+msgstr ""
+
+#: inc/customizer/options/theme-upgrade.php:7
+msgid "Olsen Pro"
+msgstr ""
+
+#: inc/customizer/options/theme-upgrade.php:9
+msgid "Do you enjoy Olsen Light? Upgrade to Pro now and get:"
+msgstr ""
+
+#: inc/customizer/options/theme-upgrade.php:11
+msgid "Multiple layouts"
+msgstr ""
+
+#: inc/customizer/options/theme-upgrade.php:12
+msgid "Infinite style variations"
+msgstr ""
+
+#: inc/customizer/options/theme-upgrade.php:13
+msgid "Post formats support"
+msgstr ""
+
+#: inc/customizer/options/theme-upgrade.php:14
+msgid "More Customizer options"
+msgstr ""
+
+#: inc/customizer/options/theme-upgrade.php:16
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/default-hooks.php:48
+msgid "Pages:"
+msgstr ""
+
+#: inc/default-hooks.php:63
+msgid "Opening Paragraph"
+msgstr ""
+
+#: inc/default-hooks.php:90
+msgid "Skip to the content"
+msgstr ""
+
+#: inc/helpers.php:309
+msgid "Facebook"
+msgstr ""
+
+#: inc/helpers.php:314
+msgid "Twitter"
+msgstr ""
+
+#: inc/helpers.php:319
+msgid "Pinterest"
+msgstr ""
+
+#: inc/helpers.php:324
+msgid "Instagram"
+msgstr ""
+
+#: inc/helpers.php:329
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/helpers.php:334
+msgid "Tumblr"
+msgstr ""
+
+#: inc/helpers.php:339
+msgid "Flickr"
+msgstr ""
+
+#: inc/helpers.php:344
+msgid "Bloglovin"
+msgstr ""
+
+#: inc/helpers.php:349
+msgid "YouTube"
+msgstr ""
+
+#: inc/helpers.php:354
+msgid "Vimeo"
+msgstr ""
+
+#: inc/helpers.php:359
+msgid "Dribbble"
+msgstr ""
+
+#: inc/helpers.php:364
+msgid "WordPress"
+msgstr ""
+
+#: inc/helpers.php:369
+msgid "500px"
+msgstr ""
+
+#: inc/helpers.php:374
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/helpers.php:379
+msgid "Spotify"
+msgstr ""
+
+#: inc/helpers.php:384
+msgid "Vine"
+msgstr ""
+
+#: inc/helpers.php:389
+msgid "Trip Advisor"
+msgstr ""
+
+#: inc/helpers.php:394
+msgid "Telegram"
+msgstr ""
+
+#: inc/helpers.php:414
+msgid "Previous page"
+msgstr ""
+
+#: inc/helpers.php:415
+msgid "Next page"
+msgstr ""
+
+#. translators: %s is a url.
+#: inc/onboarding.php:23
+#, php-format
+msgid ""
+"Looking for the Olsen Light sample content files? Download them <a href=\"%s"
+"\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/onboarding.php:63
+msgid "GutenBee"
+msgstr ""
+
+#: inc/onboarding.php:64
+msgid "Premium blocks for WordPress."
+msgstr ""
+
+#: inc/onboarding.php:67
+msgid "MaxSlider"
+msgstr ""
+
+#: inc/onboarding.php:68
+msgid "Add a custom responsive slider to any page of your website."
+msgstr ""
+
+#: inc/onboarding.php:71
+msgid "Smush by WPMU DEV"
+msgstr ""
+
+#: inc/onboarding.php:72
+msgid "Compress, Optimize and Lazy Load Images."
+msgstr ""
+
+#: inc/onboarding.php:76
+msgid "Contact Form by WPForms"
+msgstr ""
+
+#: inc/onboarding.php:77
+msgid "Drag & Drop Form Builder for WordPress."
+msgstr ""
+
+#: inc/onboarding.php:82 inc/onboarding/onboarding-page.php:498
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/onboarding.php:83
+msgid "Import your demo content, widgets and theme settings with one click."
+msgstr ""
+
+#: inc/onboarding.php:94
+msgid ""
+"Olsen Light is a clean and elegant WordPress blog theme, perfect for "
+"lifestyle, food, fashion, travel, health & fitness, photography and beauty "
+"blogging. It is 100% responsive, customizable and easy to use. It is also "
+"compatible with the most popular page builders like Elementor, Divi, Brizy "
+"and Beaver Builder."
+msgstr ""
+
+#: inc/onboarding.php:98 inc/onboarding/onboarding-page.php:832
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/onboarding.php:99 inc/onboarding/onboarding-page.php:833
+msgid "Sample Content"
+msgstr ""
+
+#: inc/onboarding.php:100 inc/onboarding/onboarding-page.php:834
+msgid "Support"
+msgstr ""
+
+#. translators: %1$s is the theme name. %2$s URL to onboarding page.
+#: inc/onboarding/onboarding-page.php:194
+#, php-format
+msgid ""
+"Welcome to %1$s. Check out the <a href=\"%2$s\">onboarding page</a> to get "
+"things started."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:253
+msgid "Activating"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:254
+msgid "Activate"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:255
+msgid "Installing..."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:256
+#: inc/onboarding/onboarding-page.php:404
+msgid "Activate variation"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:257
+msgid "Deleting..."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:258
+msgid "Are you sure you want to delete your theme customizations?"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:347
+msgid "Select a theme variation. You can always come back and pick another."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:350
+#: inc/onboarding/onboarding-page.php:421
+#: inc/onboarding/onboarding-page.php:446
+msgid ""
+"You do not have sufficient permissions to install plugins, please contact "
+"your administrator."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:364
+msgid ""
+"Your existing theme customizations made via the Customizer (theme mods) may "
+"prevent you from viewing the selected variation's defaults correctly. In "
+"this case, you might want to delete your customizations."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:365
+msgid ""
+"WARNING: Deleting your customizations cannot be undone. Make sure you keep a "
+"backup before deleting your customizations."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:366
+msgid "Delete customizations"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:418
+msgid "The following plugins are required. Please install and activate them."
+msgstr ""
+
+#. translators: %s is the theme's name.
+#: inc/onboarding/onboarding-page.php:442
+#, php-format
+msgid ""
+"The following plugins are not required but they will provide additional "
+"functionality to %s."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:483
+msgid "Plugins required for sample content. Please install and activate."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:484
+msgid ""
+"While these plugins are not required for the theme to work, they are needed "
+"to ensure the sample content is correctly imported. You can deactivate/"
+"remove them if you want, after the sample content is imported."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:496
+msgid "Import our sample content."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:503
+msgid "Please note:"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:504
+msgid ""
+"You need to install and activate <strong>One Click Demo Import</strong> "
+"before proceeding."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:510
+msgid "Good to go!"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:511
+msgid ""
+"Now you can import the sample content and have your theme set up like the "
+"demo using the One Click Demo Import Plugin."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:512
+msgid "Get Started"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:530
+msgid "Here are a few useful links to get you started."
+msgstr ""
+
+#. translators: %s is the plugin name.
+#: inc/onboarding/onboarding-page.php:587
+#: inc/onboarding/onboarding-page.php:616
+#, php-format
+msgid "The %s plugin was not found. Click to install and activate."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:590
+#: inc/onboarding/onboarding-page.php:619
+msgid "Install &amp; activate "
+msgstr ""
+
+#. translators: %s is the plugin name.
+#: inc/onboarding/onboarding-page.php:645
+#, php-format
+msgid "The %s plugin is installed but not active. Click to activate."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:648
+msgid "Activate "
+msgstr ""
+
+#. translators: %s is the plugin name.
+#: inc/onboarding/onboarding-page.php:666
+#, php-format
+msgid "%s is installed and activated."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:722
+msgid "You do not have sufficient permissions to install plugins on this site."
+msgstr ""
+
+#. translators: %s is a URL.
+#: inc/onboarding/onboarding-page.php:736
+#, php-format
+msgid "Installing Plugin from URL: %s"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:752
+#: inc/onboarding/onboarding-page.php:781
+msgid ""
+"You do not have sufficient permissions to change theme options on this site."
+msgstr ""
+
+#. translators: %s is the theme name.
+#: inc/onboarding/onboarding-page.php:812
+#: inc/onboarding/onboarding-page.php:815
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:817
+msgid "Welcome to :theme_name:! - Version :theme_version:"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:830
+msgid "Theme Variations"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:831
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:895
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:896
+msgid ""
+"If you don't want to import our demo sample content, just visit this page "
+"and learn how to set things up individually."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:900
+msgid "Knowledge Base"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:901
+msgid ""
+"Browse our library of step by step how-to articles, tutorials, and guides to "
+"get quick answers."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:905
+msgid "Request Support"
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:906
+msgid ""
+"Got stuck? No worries, just visit our support page, submit your ticket and "
+"we will be there for you within 24 hours."
+msgstr ""
+
+#: inc/onboarding/onboarding-page.php:919
+msgid "Plugin Title"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:22
+msgid "Select file"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:23
+msgid "Select files"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:24
+msgid "Use this file"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:25
+msgid "Use these files"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:26
+msgid "Update gallery"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:27
+msgid "Loading..."
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:28
+msgid "Gallery preview not available."
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:29 inc/widgets/about-me.php:112
+#: inc/widgets/about-me.php:139
+msgid "Remove image"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:30
+#: inc/post-meta/helpers-post-meta.php:456
+msgid "Remove from gallery"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:263
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:445
+msgid "Add Images"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:447
+msgid "Randomize order"
+msgstr ""
+
+#: inc/post-meta/helpers-post-meta.php:462
+msgid "Your gallery images will appear here"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Lora and Lato, translate this to 'off'. Do not translate into your own language.
+#: inc/scripts-styles.php:12
+msgctxt "Lora and Lato fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/sidebars-widgets.php:5
+msgctxt "widget area"
+msgid "Blog"
+msgstr ""
+
+#: inc/sidebars-widgets.php:7
+msgid "This is the main sidebar."
+msgstr ""
+
+#: inc/sidebars-widgets.php:15
+msgctxt "widget area"
+msgid "Pages"
+msgstr ""
+
+#: inc/sidebars-widgets.php:17
+msgid ""
+"This sidebar appears on your static pages. If empty, the Blog sidebar will "
+"be shown instead."
+msgstr ""
+
+#: inc/sidebars-widgets.php:25
+msgctxt "widget area"
+msgid "Footer Sidebar"
+msgstr ""
+
+#: inc/sidebars-widgets.php:27
+msgid "Special site-wide sidebar for the WP Instagram Widget plugin."
+msgstr ""
+
+#: inc/widgets/about-me.php:6
+msgid "Provide information for the blog author, accompanied by a picture."
+msgstr ""
+
+#: inc/widgets/about-me.php:8
+msgid "Theme - About Me"
+msgstr ""
+
+#: inc/widgets/about-me.php:101 inc/widgets/latest-posts.php:98
+#: inc/widgets/socials.php:42
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/about-me.php:104
+msgid "Author Image:"
+msgstr ""
+
+#: inc/widgets/about-me.php:118 inc/widgets/about-me.php:145
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/about-me.php:122
+msgid ""
+"Show round image. For this to work, you need a square image. "
+"(200&times;200px or higher)."
+msgstr ""
+
+#: inc/widgets/about-me.php:123
+msgid "Invert widget color scheme."
+msgstr ""
+
+#: inc/widgets/about-me.php:125
+msgid "About text:"
+msgstr ""
+
+#: inc/widgets/about-me.php:127
+msgid "Greeting (sign off) text:"
+msgstr ""
+
+#: inc/widgets/about-me.php:128
+msgid "Signature text:"
+msgstr ""
+
+#: inc/widgets/about-me.php:131
+msgid "Signature Image:"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:6
+msgid ""
+"Displays a number of the latest (or random) posts from a specific category."
+msgstr ""
+
+#: inc/widgets/latest-posts.php:8
+msgid "Theme - Latest Posts"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:100
+msgid "Category to display the latest posts from (optional):"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:115
+msgid "Show random posts."
+msgstr ""
+
+#: inc/widgets/latest-posts.php:117
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:120
+msgid "Item Layout:"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:122
+msgctxt "item layout"
+msgid "Vertical (big image)"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:123
+msgctxt "item layout"
+msgid "Horizontal (small image)"
+msgstr ""
+
+#: inc/widgets/socials.php:6
+msgid "Displays the site's social icons."
+msgstr ""
+
+#: inc/widgets/socials.php:8
+msgid "Theme - Social Icons"
+msgstr ""
+
+#: inc/widgets/socials.php:43
+msgid ""
+"This widget displays your site's social icons. In order to set them up, you "
+"need to visit <strong>Appearance > Customize > Social Networks</strong> and "
+"provide the appropriate URLs where desired."
+msgstr ""
+
+#: index.php:30
+msgid "No results found. Please broaden your terms and search again."
+msgstr ""
+
+#: index.php:31
+msgid ""
+"Just one result found. We either nailed it, or you might want to broaden "
+"your terms and search again."
+msgstr ""
+
+#: index.php:32
+#, php-format
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] ""
+msgstr[1] ""
+
+#: index.php:36
+msgid "Search results"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "search box placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:5
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single.php:57
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:60
+msgid "Next Post"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Olsen Light"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.cssigniter.com/themes/olsen-light/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CSSIgniter"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cssigniter.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page builder"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Page"
+msgstr ""

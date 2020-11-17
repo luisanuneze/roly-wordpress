@@ -1,0 +1,199 @@
+# Translation of Themes - Writy in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Writy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-09 11:07:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Writy\n"
+
+#. Description of the theme
+msgid "Writy is latest wordpress theme designed with gutenberg concept. Its clean and minimal"
+msgstr "Writy es el último tema para WordPress diseñado con el concepto de Gutenberg. Es limpio y minimalista."
+
+#. Theme Name of the theme
+msgid "Writy"
+msgstr "Writy"
+
+#: comments.php:45
+msgid "Add Comment"
+msgstr "Añadir un comentario"
+
+#: comments.php:34
+msgid "Comments navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:14
+msgid " Comments"
+msgstr " comentarios"
+
+#: comments.php:12
+msgid " Comment"
+msgstr " comentario"
+
+#: template-parts/content/content.php:36
+msgid "Post Tags"
+msgstr "Etiquetas de la entrada"
+
+#: template-parts/post-formats/post-none.php:53
+msgid "It seems we con't  find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/post-formats/post-none.php:46
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: Link to WP admin new post page.
+#: template-parts/post-formats/post-none.php:33
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/post-formats/post-none.php:18
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/post-formats/post.php:67
+#: template-parts/content/content.php:26
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/post-formats/post.php:37
+#: template-parts/post-formats/post.php:73
+msgid "Read More.."
+msgstr "Leer más..."
+
+#: inc/template-tags.php:164
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/template-tags.php:160
+msgid "Previous"
+msgstr "Anterior"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+msgid "Tagged %1$s"
+msgstr "Etiquetada como %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicada el %s"
+
+#: single.php:45
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: single.php:41
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#. translators: %s: Parent post link.
+#: single.php:34
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</span>"
+msgstr "<span class=\"meta-nav\">Publicado en</span> <span class=\"post-title\">%s</span>"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quieres probar una búsqueda?"
+
+#: 404.php:26
+msgid "Oops! That page cannot be found"
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: search.php:18
+msgid "Search results for: "
+msgstr "Resultados de la búsqueda de: "
+
+#: classes/class-writy-customizer.php:69
+msgid "Footer Text"
+msgstr "Texto del pie de página"
+
+#: classes/class-writy-customizer.php:61
+msgid "default text"
+msgstr "Texto por defecto"
+
+#: classes/class-writy-customizer.php:52
+msgid "Chnage Link Color"
+msgstr "Cambiar el color de los enlaces"
+
+#: classes/class-writy-customizer.php:26
+msgid "Writy Theme Options"
+msgstr "Opciones del tema Writy"
+
+#: functions.php:183
+msgid "Type Keywords"
+msgstr "Escribe las palabras clave"
+
+#: functions.php:180
+msgid "Search"
+msgstr "Buscar"
+
+#: functions.php:179
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: functions.php:136
+msgid "Skip to the content"
+msgstr "Saltar al contenido"
+
+#: functions.php:105
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: functions.php:103
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:34
+msgid "Header Menu"
+msgstr "Menú de la cabecera"
+
+#: header.php:33
+msgid "Toggle navigation"
+msgstr "Alternar la navegación"
+
+#. Author of the theme
+msgid "Native Themes"
+msgstr "Native Themes"

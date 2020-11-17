@@ -1,0 +1,135 @@
+.olsen-light-onboarding-wrap {
+	.wp-badge {
+		background: #fff;
+		padding: 41px 0;
+		height: auto;
+
+		img {
+			width: 80px;
+			position: relative;
+			left: -5px;
+		}
+	}
+
+	.olsen-light-onboarding-box {
+		background: #fff;
+		border-left: solid 4px #fff;
+		box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+		padding: 15px;
+		margin: 0;
+		display: flex;
+		flex-direction: column;
+
+		.box-title {
+			margin: 0 0 5px 0;
+		}
+
+		.box-description {
+			font-size: 13px;
+			margin: 0;
+		}
+
+		:last-child {
+			margin-bottom: 0;
+			margin-top: auto;
+		}
+
+		@media (min-width: 1024px) {
+			p {
+				margin-top: 0;
+			}
+		}
+
+		&.olsen-light-variation {
+			.activate-variation {
+				display: inline-block;
+			}
+
+			&.enabled {
+				border-left: solid 4px green;
+
+				.activate-variation {
+					display: none;
+				}
+			}
+		}
+	}
+
+	.olsen-light-onboarding-box-warning {
+		border-left: solid 4px red;
+	}
+
+	.olsen-light-onboarding-box-info {
+		border-left: solid 4px orange;
+	}
+
+	.olsen-light-onboarding-box-success {
+		border-left: solid 4px green;
+	}
+
+	.olsen-light-onboarding-table {
+		width: 100%;
+		border-collapse: collapse;
+
+		tr {
+			border-bottom: solid 1px #ccc;
+
+			&:nth-child(even) {
+				background: #f9f9f9;
+
+				.olsen-light-onboarding-pro {
+					background: #9dba6f;
+				}
+			}
+		}
+
+		th {
+			font-weight: bold;
+		}
+
+		th, td {
+			padding: 15px 8px;
+		}
+
+		.olsen-light-onboarding-col {
+			width: 150px;
+			text-align: center;
+		}
+
+		.olsen-light-onboarding-pro {
+			background: #92af64;
+			color: #fff;
+		}
+	}
+
+	a.button-action {
+		margin: 0 auto;
+	}
+
+	.disabled {
+		pointer-events: none;
+		cursor: not-allowed;
+	}
+}
+
+.olsen-light-onboarding-list {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 15px -15px 0 -15px;
+
+	.col {
+		padding-left: 15px;
+		padding-right: 15px;
+		margin-bottom: 20px;
+		width: 100%;
+
+		@media (min-width: 1024px) {
+			width: calc(33.33333% - 30px);
+			margin-bottom: 50px;
+
+			> div {
+				height: 100%;
+			}
+		}
+	}
+}

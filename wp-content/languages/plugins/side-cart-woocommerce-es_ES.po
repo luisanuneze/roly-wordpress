@@ -1,0 +1,20 @@
+# Translation of Plugins - WooCommerce Side Cart (Ajax) - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Side Cart (Ajax) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-09 21:42:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Side Cart (Ajax) - Stable (latest release)\n"
+
+#: templates/global/body/product.php:71
+msgid "Qty:"
+msgstr "Cantidad:"
+
+#: includes/class-xoo-wsc-cart.php:201
+msgid "Subtotal"
+msgstr "Subtotal"

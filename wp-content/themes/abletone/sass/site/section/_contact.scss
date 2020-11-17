@@ -1,0 +1,44 @@
+.contact-details {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    > div {
+        padding-right: 28px;
+        width: 50%;
+
+        &:nth-of-type(2n) {
+            padding-right: 0;
+        }
+    }
+}
+
+#contact-section .entry-title {
+    text-transform: uppercase;
+}
+
+.wpcf7 div input,
+.wpcf7 div textarea {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.wpcf7 {
+    input[type="submit"] {
+        @include border(35px);   
+    }   
+    div {
+        div {
+            margin-bottom: 35px;
+        }
+    }
+
+    label {
+        font-weight: 500;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+}

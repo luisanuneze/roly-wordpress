@@ -1,0 +1,18 @@
+<wpml-config>
+
+  <admin-texts>
+
+    <key name="xoo-wsc-gl-options">
+      <key name="sct-cart-heading" />
+      <key name="sct-ft-contbtn" />
+      <key name="sct-ft-cartbtn" />
+      <key name="sct-ft-chkbtn" />
+      <key name="sct-empty" />
+      <key name="sct-shop-btn" />
+      <key name="sct-sb-remaining" />
+      <key name="sct-sb-free" />
+    </key>
+
+  </admin-texts>
+
+</wpml-config>

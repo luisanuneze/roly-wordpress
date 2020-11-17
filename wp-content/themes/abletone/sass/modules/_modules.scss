@@ -1,0 +1,89 @@
+/**
+ * 6.0 - Modules
+ */
+
+.section {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	padding: 7px 0;
+	position: relative;
+	width: 100%;
+	z-index: 1;
+}
+
+.section-heading-wrapper {
+	display: block;
+	max-width: 920px;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+
+#testimonial-content-section .owl-slideshow {
+	overflow: hidden;
+}
+
+#hero-section,
+#app-section,
+#testimonial-content-section,
+#featured-video-section,
+#contact-section,
+#team-content-section,
+#playlist-section,
+#events-section,
+#product-content-section,
+#stats-section,
+#portfolio-content-section,
+#service-section {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+/*-------------------------------------------------------------
+## accessibility
+--------------------------------------------------------------*/
+@import 'accessibility';
+
+/*--------------------------------------------------------------
+## alignments
+--------------------------------------------------------------*/
+@import 'alignments';
+
+/*--------------------------------------------------------------
+## breadcrumbs
+--------------------------------------------------------------*/
+@import 'breadcrumbs';
+
+/*--------------------------------------------------------------
+## captions
+--------------------------------------------------------------*/
+@import 'captions';
+
+/*--------------------------------------------------------------
+## clearings
+--------------------------------------------------------------*/
+@import 'clearings';
+
+/*--------------------------------------------------------------
+## content
+--------------------------------------------------------------*/
+@import 'content';
+
+/*--------------------------------------------------------------
+## media
+--------------------------------------------------------------*/
+@import 'media';
+
+/*--------------------------------------------------------------
+## alignments
+--------------------------------------------------------------*/
+@import 'scroll-up';
+
+/*--------------------------------------------------------------
+## alignments
+--------------------------------------------------------------*/
+@import 'sidebar';

@@ -1,0 +1,368 @@
+/**
+ * 8.8 - >= 1660px
+ */
+
+@include media(diagonal) {
+    .is-open .menu-inside-wrapper {
+        right: 3%;
+    }
+
+    body {
+        font-size: 21px;
+        font-size: 1.3125rem;
+    }
+
+    div#primary-menu-wrapper .menu-toggle {
+        width: 100px;
+    }
+
+    div#playlist-section .entry-content p:last-child,
+    div#playlist-section .entry-summary p:last-child {
+        margin-top: 42px;
+    }
+
+    .sticky-playlist-enabled.home .custom-header {
+        min-height: calc(100vh - 70px);
+    }
+
+    .site-header-logo,
+    .slider-content-wrapper .title-image {
+        max-width: 100%;
+    }
+
+    .promotion-section.section {
+        padding: 439px 0;
+    }
+
+    .sidebar .widget .widget-wrap {
+        padding: 49px 55px;
+    }
+
+    .archive-posts-wrapper .hentry .entry-summary p,
+    .archive-posts-wrapper .hentry .entry-content p {
+        margin-bottom: 35px;
+    }
+
+    .comments-area {
+        padding-top: 70px;
+        margin-top: 70px;
+    }
+
+    .footer-widget-area {
+        padding: 42px 0 0;
+    }
+
+    .team-content-wrapper .entry-container {
+        padding: 56px;
+    }
+
+    #team-dots {
+        max-width: 601px;
+    }
+
+    .archive-post-wrap .hentry .post-thumbnail-background + .entry-container {
+        padding: 320px 50px;
+        padding-right: 140px;
+    }
+
+    .section-subtitle {
+        margin-top: 21px;
+    }
+
+    .archive-post-wrap .hentry:nth-child(2n) .post-thumbnail-background + .entry-container {
+        padding-left: 140px;
+        padding-right: 50px;
+    }
+
+    #team-dots li {
+        margin-right: 35px;
+    }
+
+    .above-footer {
+        padding-top: 70px;
+    }
+
+    .widget-column + .above-footer {
+        padding-top: 28px;
+    }
+
+    #testimonial-content-section {
+        padding: 152px 0;
+    }
+
+    #sticky-playlist-section .wp-playlist-caption,
+    #sticky-playlist-section .wp-playlist-item-title,
+    #sticky-playlist-section .wp-playlist-item-length,
+    #sticky-playlist-section .abletone-mejs-container.mejs-container .mejs-time,
+    .archive-posts-wrapper .entry-meta a  {
+        font-size: 16px;
+        font-size: 1rem;
+    }
+
+    .service-section.section {
+        padding: 271px 0;
+    }
+
+    .service-section.section.no-section-heading {
+        padding-top: 313px;
+    }
+
+    #playlist-section {
+        padding: 211px 0 169px 0;
+    }
+
+    .playlist-section.no-section-heading {
+        padding-top: 168px;
+    }
+
+    .playlist-content-wrapper .entry-container {
+        padding: 110px 0 0 120px;
+    }
+
+    .single .site-main .entry-header,
+    .page .site-main .entry-header,
+    .archive .page-header,
+    .error404 .page-header,
+    .search .page-header,
+    .woocommerce-products-header {
+        margin-bottom: 83px;
+    }
+
+    body #playlist-section .wp-playlist {
+        margin-top: 42px;
+    }
+
+    .playlist-content-wrapper.content-align-left .entry-container {
+        padding-left: 0;
+        padding-right: 63px;
+    }
+
+    ul.products li.product .price,
+    .events-content-wrapper .date-month-year,
+    .menu-toggle-close,
+    .dropdown-toggle,
+    .cart-contents:before,
+    .search-toggle:before,
+    .search-submit:before {
+        font-size: 18px;
+        font-size: 1.125rem;
+    }
+
+    .site-header .wrapper {
+        padding-bottom: 21px;
+        padding-top: 21px;
+    }
+
+    .site-title {
+        font-size: 28px;
+        font-size: 1.75rem;
+    }
+
+    .entry-content h1,
+    .entry-summary h1,
+    .comment-content h1,
+    .textwidget h1,
+    .section-title,
+    #app-section .section-title,
+    #hero-section .entry-title,
+    #playlist-section .entry-title,
+    .singular-content-wrap .entry-title,
+    .home .header-media .entry-title,
+    .slider-content-wrapper .entry-title,
+    .page-title,
+    #contact-section .entry-title,
+    .archive-post-wrap .hentry .entry-title,
+    .events-content-wrapper .date-week-day,
+    .page .site-main .entry-title,
+    .single .site-main .entry-title,
+    .home .header-media .entry-title,
+    #feature-slider-section .entry-title {
+        font-size: 58px;
+        font-size: 3.625rem;
+    }
+
+    #footer-instagram .widget-title,
+    .entry-content h2,
+    .entry-summary h2,
+    #stats-section h2.entry-title,
+    .comment-content h2,
+    .textwidget h2 {
+        font-size: 42px;
+        font-size: 2.625rem;
+    }
+
+    .entry-content h3,
+    .entry-summary h3,
+    .comment-content h3,
+    .textwidget h3,
+    .events-content-wrapper .entry-title,
+    #testimonial-content-section .entry-content {
+        font-size: 32px;
+        font-size: 2rem;
+    }
+
+    .entry-content h4,
+    .entry-summary h4,
+    .comment-content h4,
+    .textwidget h4,
+    .post-navigation .nav-links,
+    .custom-header-content .site-header-text,
+    #feature-slider-section .entry-summary p,
+    #feature-slider-section .entry-content p,
+    .comment-reply-title,
+    ul.products li.product .woocommerce-loop-product__title,
+    .comments-title,
+    .comment-reply-title,
+    .entry-title {
+        font-size: 24px;
+        font-size: 1.5rem;
+    }
+
+    .entry-content h5,
+    .entry-summary h5,
+    .comment-content h5,
+    .textwidget h5,
+    aside.footer-widget-area .widget,
+    .author-description .author-title,
+    .author-description .author-title {
+        font-size: 21px;
+        font-size: 1.3125rem;
+    }
+
+    #footer-newsletter .widget {
+        padding: 49px 50px;
+    }
+
+    .section.no-section-heading {
+        padding-top: 140px;
+    }
+
+    #hero-section .wrapper {
+        padding: 91px 50px;
+    }
+
+    #footer-instagram .widget-title {
+        margin: 84px auto 42px;
+    }
+
+    .sticky-playlist-enabled .site-footer {
+        margin-bottom: 70px;
+    }
+
+    .section {
+        padding: 98px 0 98px 0;
+    }
+
+    .site-footer-menu .wrapper > #social-footer-navigation {
+        margin-bottom: 70px;
+    }
+
+    #team-dots li:after {
+        bottom: -35px;
+    }
+
+    #abletone-logo-slider-section {
+        padding-bottom: 63px;
+    }
+
+    #site-generator {
+        padding-top: 70px;
+    }
+
+    .hero-content-wrapper .entry-container {
+        padding-bottom: 152px;
+        padding-top: 152px;
+    }
+
+    .content-align-right .hero-content-wrapper .entry-container {
+        padding-left: 140px;
+    }
+
+    .contact-us-form form {
+        margin-top: 46px;
+    }
+
+    .home .header-media .entry-title,
+    #feature-slider-section .entry-title {
+        font-weight: 700;
+    }
+
+    .archive-post-wrap .entry-container {
+        padding: 35px;
+    }
+
+    #footer-menu-section .wrapper {
+        padding: 0 30px;
+    }
+
+    .woocommerce a.button,
+    .woocommerce button.button,
+    .woocommerce button.button.alt,
+    .woocommerce input.button,
+    .woocommerce input.button.alt {
+        padding: 14px 35px;
+    }
+
+    .abletone-mejs-container.mejs-container .mejs-controls {
+        padding: 15px 28px;
+    }
+
+    #sticky-playlist-section .wp-playlist-current-item {
+        padding: 10px 21px 10px 0;
+    }
+
+    #sticky-playlist-section .abletone-mejs-container.mejs-container .mejs-controls {
+        padding: 15px 0;
+    }
+
+    .events-section,
+    #contact-section {
+        padding-bottom: 161px;
+        padding-top: 161px;
+    }
+
+    .events-section.section.no-section-heading {
+        padding-top: 226px;
+    }
+
+    #footer-instagram .widget-title {
+        font-size: 48px;
+        font-size: 3rem;
+    }
+
+    #contact-section .hentry {
+        padding: 49px;
+    }
+
+    .section-heading-wrapper {
+        padding-bottom: 70px;
+    }
+
+    .team-content-wrapper .entry-summary, .team-content-wrapper .entry-content {
+        padding-right: 50px;
+    }
+
+    .section-content-wrapper .entry-summary,
+    .section-content-wrapper .entry-content,
+    .contact-us-form form {
+        margin-top: 35px;
+    }
+
+    #testimonial-content-section .section-content-wrapper .entry-summary,
+    #testimonial-content-section .section-content-wrapper .entry-content {
+        margin: 0 0 35px;
+    }
+
+    .admin-bar #feature-slider-section .slider-content-wrapper {
+        min-height: calc(100vh - 163px);
+    }
+
+    .sticky-playlist-enabled.home.admin-bar #feature-slider-section {
+        min-height: calc(100vh - 104px);
+    }
+
+
+    .sticky-playlist-enabled.home.admin-bar #feature-slider-section .slider-content-wrapper {
+        min-height: calc(100vh - 236px);
+    }
+}

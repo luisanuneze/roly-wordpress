@@ -1,0 +1,249 @@
+# Translation of Plugins - mowomo Social Share - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - mowomo Social Share - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-13 08:29:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - mowomo Social Share - Stable (latest release)\n"
+
+#: includes/admin/class.mwm-rrss-admin.php:182
+msgid "mowomo Social Share - mowomo"
+msgstr "mowomo Social Share - mowomo"
+
+#. Plugin Name of the plugin
+#: includes/admin/class.mwm-rrss-admin.php:167
+msgid "mowomo Social Share"
+msgstr "mowomo Social Share"
+
+#: mowomo-dashboard/lib/mowomo-resources.php:81
+msgid "Copy"
+msgstr "Copiar"
+
+#: templates/admin/admin-advanced-configuration.php:33
+msgid "Colored with square edges"
+msgstr "Coloreado con bordes cuadrados"
+
+#: templates/admin/admin-advanced-configuration.php:34
+msgid "Colored with slightly rounded edges"
+msgstr "Coloreado con bordes redondeados ligeramente"
+
+#: templates/admin/admin-advanced-configuration.php:35
+msgid "Only colored icon with square borders"
+msgstr "Solo el icono coloreado con bordes cuadrados"
+
+#: templates/admin/admin-advanced-configuration.php:36
+msgid "Only colored icon with slightly rounded edges"
+msgstr "Solo el icono coloreado con bordes redondeados ligeramente"
+
+#: templates/admin/admin-advanced-configuration.php:37
+msgid "Only colored icon with rounded edges"
+msgstr "Solo el icono coloreado con bordes redondeados"
+
+#: templates/admin/admin-advanced-configuration.php:38
+msgid "In black and white with square edges"
+msgstr "En negro y blanco con bordes cuadrados"
+
+#: templates/admin/admin-advanced-configuration.php:39
+msgid "In black and white with slightly rounded edges"
+msgstr "En negro y blanco con bordes redondeados ligeramente"
+
+#: templates/admin/admin-advanced-configuration.php:40
+msgid "Only black and white icon with square borders"
+msgstr "Solo el icono en negro y blanco con bordes cuadrados"
+
+#: templates/admin/admin-advanced-configuration.php:41
+msgid "Only black and white icon with slightly rounded edges"
+msgstr "Solo el icono en negro y blanco con bordes redondeados ligeramente"
+
+#: templates/admin/admin-advanced-configuration.php:42
+msgid "Only black and white icon with rounded edges"
+msgstr "Solo el icono en negro y blanco con bordes redondeados"
+
+#: templates/admin/admin-advanced-configuration.php:46
+msgid "Button desing"
+msgstr "Diseño del botón"
+
+#: templates/admin/admin-advanced-configuration.php:52
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: templates/admin/admin-advanced-configuration.php:78
+msgid "Button alignment"
+msgstr "Alineación del botón"
+
+#: templates/admin/admin-advanced-configuration.php:81
+msgid "On the left"
+msgstr "A la izquierda"
+
+#: templates/admin/admin-advanced-configuration.php:82
+msgid "In the middle"
+msgstr "En el medio"
+
+#: templates/admin/admin-advanced-configuration.php:83
+msgid "On the right"
+msgstr "A la derecha"
+
+#: includes/admin/class.mwm-rrss-admin.php:185
+msgid "General configuration"
+msgstr "Configuración general"
+
+#: includes/admin/class.mwm-rrss-admin.php:186
+msgid "Advanced configuration"
+msgstr "Configuración avanzada"
+
+#: mowomo-dashboard/includes/admin/class.mwm-dashboard.php:175
+msgid "General panel - mowomo"
+msgstr "Panel general - mowomo"
+
+#: mowomo-dashboard/includes/admin/class.mwm-dashboard.php:196
+msgid "License management - mowomo"
+msgstr "Gestión de la licencia - mowomo"
+
+#: mowomo-dashboard/includes/admin/class.mwm-dashboard.php:199
+msgid "Activated licenses"
+msgstr "Licencias activadas"
+
+#: mowomo-dashboard/includes/admin/class.mwm-dashboard.php:269
+msgid "Aviso:"
+msgstr "Aviso:"
+
+#: mowomo-dashboard/templates/admin/admin-general.php:62
+msgid "Enhorabuena, todos tus plugins cuentan con la versión PRO."
+msgstr "Enhorabuena, todos tus plugins cuentan con la versión PRO."
+
+#: mowomo-dashboard/templates/admin/admin-general.php:72
+msgid "Plugin notifications"
+msgstr "Avisos del plugin"
+
+#: mowomo-dashboard/templates/admin/admin-general.php:73
+msgid "This table shows all mowomo notifications detected by the system."
+msgstr "Esta tabla muestra todos los avisos de mowomo detectados por el sistema."
+
+#: mowomo-dashboard/templates/admin/admin-general.php:104
+msgid "Enhorabuena, has resuelto todas las notificaciones de mowomo."
+msgstr "Enhorabuena, has resuelto todas las notificaciones de mowomo."
+
+#: templates/admin/admin-general-configuration.php:60
+msgid "Twitter user"
+msgstr "Usuario de Twitter"
+
+#: templates/admin/admin-general-configuration.php:62
+msgid "Insert the user without @. E.j: mowomocom"
+msgstr "Inserta el usuario sin la @. Ej.: mowomocom"
+
+#: templates/admin/admin-general-configuration.php:82
+msgid "Shortcode for you to use wherever you want"
+msgstr "Shortcode para que lo uses donde quieras"
+
+#: mowomo-dashboard/includes/functions.mwm-dashboard.php:72
+msgid "Copiar"
+msgstr "Copiar"
+
+#: mowomo-dashboard/templates/admin/admin-general.php:121
+msgid "mowomo is a company that makes custom developments for WordPress, both themes and plugins. It also offers other types of products."
+msgstr "mowomo es una empresa hace desarrollos personalizados para WordPress, tanto de temas como de plugins. También ofrece otros tipos de productos."
+
+#: mowomo-dashboard/templates/admin/admin-general.php:120
+msgid "New to mowomo?"
+msgstr "¿Eres nuevo en mowomo?"
+
+#: mowomo-dashboard/templates/admin/admin-general.php:97
+msgid "Solve"
+msgstr "Resolver"
+
+#: mowomo-dashboard/templates/admin/admin-general.php:55
+msgid "Get PRO"
+msgstr "Obtén PRO"
+
+#: mowomo-dashboard/templates/admin/admin-general.php:40
+msgid "All plugins in this table can be updated to a pro version with new features"
+msgstr "Todos los plugins de esta tabla pueden ser actualizados a la versión Pro con nuevas características"
+
+#: mowomo-dashboard/templates/admin/admin-general.php:39
+msgid "Pro version"
+msgstr "Versión Pro"
+
+#: includes/admin/class.mwm-rrss-admin.php:208
+#: mowomo-dashboard/includes/admin/class.mwm-dashboard.php:220
+msgid "mowomo team"
+msgstr "Equipo de mowomo"
+
+#: includes/admin/class.mwm-rrss-admin.php:208
+#: mowomo-dashboard/includes/admin/class.mwm-dashboard.php:220
+msgid "Thanks for using mowomo Social Share, plugin made by "
+msgstr "Gracias por usar mowomo Social Share, plugin creado por "
+
+#: includes/frontend/rrss-resources.php:57
+#: includes/frontend/class.mwm-rrss.php:238
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: templates/admin/admin-general-configuration.php:44
+#: templates/admin/admin-general-configuration.php:48
+msgid "Position of buttons"
+msgstr "Posición de los botones"
+
+#: templates/admin/admin-general-configuration.php:51
+msgid "Don't show"
+msgstr "No mostrar"
+
+#: templates/admin/admin-general-configuration.php:53
+msgid "After the post"
+msgstr "Después de la publicación"
+
+#: templates/admin/admin-general-configuration.php:52
+msgid "Before the post"
+msgstr "Antes de la publicación"
+
+#: templates/admin/admin-general-configuration.php:54
+msgid "Before and after the post"
+msgstr "Antes y después de la publicación"
+
+#: templates/admin/admin-general-configuration.php:56
+msgid "Choose where you want to make the social buttons appear"
+msgstr "Posición de la publicación donde quieres que aparezcan los botones de compartir en redes sociales"
+
+#: templates/admin/admin-general-configuration.php:67
+msgid "Which buttons do you want to show?"
+msgstr "¿Qué redes sociales quieres mostrar?"
+
+#. Description of the plugin
+msgid "Light and simple plugin for allowing the readers of your blog to share your entries on their social networks. If you only need to offer the possibility to your readers of sharing your blog entries... Why getting complicated?"
+msgstr "Ligero y sencillo plugin para que los lectores de nuestro blog puedan compartir nuestras entradas en sus redes sociales. Si lo que necesitas es simplemente que tus lectores compartan las entradas de tu blog en sus redes sociales ¿para qué complicarte más?."
+
+#: includes/frontend/rrss-resources.php:45
+#: includes/frontend/class.mwm-rrss.php:229
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/frontend/rrss-resources.php:41
+#: includes/frontend/class.mwm-rrss.php:226
+msgid "Twitter"
+msgstr "Twitter"
+
+#. Author URI of the plugin
+msgid "https://mowomo.com/sobre-mowomo"
+msgstr "https://mowomo.com/sobre-mowomo"
+
+#. Author of the plugin
+msgid "mowomo"
+msgstr "mowomo"
+
+#: includes/frontend/rrss-resources.php:49
+#: includes/frontend/class.mwm-rrss.php:232
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/frontend/rrss-resources.php:53
+#: includes/frontend/class.mwm-rrss.php:235
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#. Plugin URI of the plugin
+msgid "https://mowomo.com"
+msgstr "https://mowomo.com"

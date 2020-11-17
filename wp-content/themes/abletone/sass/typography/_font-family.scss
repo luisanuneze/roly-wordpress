@@ -1,0 +1,41 @@
+/**
+ * 2.2 - Font-Family
+ */
+
+body,
+button,
+input,
+select,
+textarea,
+#testimonial-content-section .entry-title {
+	font-family: $body-font;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.posts-navigation a,
+.post-navigation .post-title,
+.comment-meta .author-name,
+#content #infinite-handle span button,
+.catch-instagram-feed-gallery-widget-wrapper .button,
+.ui-tabs .ui-tabs-nav li a {
+	font-family: $heading-font;
+}
+
+.site-title,
+.site-description {
+	font-family: $brand-title-font;
+}

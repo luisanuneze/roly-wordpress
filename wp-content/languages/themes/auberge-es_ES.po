@@ -1,0 +1,1429 @@
+# Translation of Themes - Auberge in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Auberge package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-21 16:15:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Auberge\n"
+
+#. Description of the theme
+msgid "Auberge is responsive, retina-ready, modern restaurant & café & recipes blog WordPress theme. Supports Beaver Builder page builder plugin, Jetpack plugin to create nested food menus, WebMan Amplifier plugin for recipes, Schema.org markup with Google recipe view, Theme Hook Alliance action hooks, translation-ready code with support for RTL languages, header slideshow, customizable colors and layout, and other cool features."
+msgstr "Auberge es un tema de restaurante moderno, café y blog de recetas para WordPress, adaptable, listo para retina. Compatible con el plugin Beaver Builder, el plugin Jetpack para crear menús de comida anidados, el plugin WebMan Amplifier para recetas, el marcado de Schema.org con la vista de recetas de Google, los ganchos de acción Theme Hook Alliance, el código listo para la traducción compatible con lenguajes RTL, carrusel de cabecera, colores y diseño personalizables, y otras características interesantes."
+
+#. Theme Name of the theme
+msgid "Auberge"
+msgstr "Auberge"
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:116
+msgid "GitHub repository instructions &raquo;"
+msgstr "Instrucciones del repositorio de GitHub »"
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:115
+msgid "For instructions on importing theme demo content please visit GitHub repository."
+msgstr "Para instrucciones sobre la importación del contenido de demostración del tema, por favor, visita el repositorio de GitHub."
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:111
+msgid "Preview the theme demo website &raquo;"
+msgstr "Vista previa de la web de demostración del tema »"
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:110
+msgid "By importing this demo content you get the exact copy of the theme demo website."
+msgstr "Al importar este contenido de demostración, obtienes una copia exacta de la web de demostración del tema."
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:106
+msgid "Manual import procedure"
+msgstr "Procedimiento de importación manual"
+
+#: includes/welcome/class-welcome.php:248
+msgid "Contact support center &rarr;"
+msgstr "Contacta con el centro de soporte &rarr;"
+
+#: includes/welcome/class-welcome.php:246
+msgid "Have a suggestion for improvement or something is not working as it should?"
+msgstr "¿Tienes alguna sugerencia para mejoras o algo no está funcionando como debería?"
+
+#: includes/welcome/class-welcome.php:228
+msgid "And/or please consider a donation, thank you 🙏😊"
+msgstr "Y/o considera hacer una donación, gracias 🙏😊"
+
+#: includes/welcome/class-welcome.php:222
+msgctxt "%1$s: heart icon, %2$s: star icons"
+msgid "If you %1$s like this theme, please rate it %2$s"
+msgstr "Si a ti %1$s te gusta este tema, valóralo %2$s"
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:151
+msgid "(Note that this set of plugins may differ from plugins recommended under Appearance &rarr; Install Plugins!)"
+msgstr "(¡Ten en cuenta que este conjunto de plugins puede diferir de los recomendados en Apariencia &rarr; Instalar plugins!)"
+
+#: template-parts/component-notice-welcome.php:42
+msgid "Visit \"Welcome\" page for information on how to set up your website."
+msgstr "Visita la página \"Bienvenida\" para obtener información sobre cómo configurar tu web."
+
+#: footer-credits.php:50
+msgctxt "1: theme name, 2: linked \"WordPress\" word."
+msgid "Using %1$s %2$s theme."
+msgstr "Usando el tema %1$s %2$s."
+
+#: template-parts/component-welcome-quickstart.php:44
+msgid "Please, pay special attention to image sizes settings under Settings &raquo; Media."
+msgstr "Por favor, presta especial atención a los ajustes de tamaños de imagen en «Ajustes &raquo; Medios»."
+
+#: template-parts/component-welcome-header.php:59
+msgid "Support Center"
+msgstr "Centro de soporte"
+
+#: includes/theme-options/theme-options.php:388
+msgid "You can override this behavior here."
+msgstr "Puede anular este comportamiento aquí."
+
+#: includes/theme-options/theme-options.php:388
+msgid "By default, all food menu section titles are linked to corresponding archive page."
+msgstr "Por defecto, todos los títulos de sección del menú de platos enlazan con la página de archivo correspondiente."
+
+#: includes/theme-options/theme-options.php:387
+msgid "Disable food section archive linking"
+msgstr "Desactivar los enlaces en el archivo de la sección de platos"
+
+#: includes/theme-options/theme-options.php:381
+msgid "In case you want to use the theme for a business website or a recipe blog (only available with Auberge Plus), you can disable the Food Menu functionality here."
+msgstr "En caso de que quieras utilizar el tema para un sitio web de negocios o un blog de recetas (sólo disponible con Auberge Plus), puedes desactivar la funcionalidad del menú de comida aquí."
+
+#: includes/theme-options/theme-options.php:380
+msgid "Disable food menu"
+msgstr "Desactivar el menú de platos"
+
+#: includes/theme-options/theme-options.php:373
+msgctxt "Customizer section title."
+msgid "Food Menu"
+msgstr "Menú de platos"
+
+#: includes/theme-options/theme-options.php:48
+#: includes/theme-options/theme-options.php:76
+#: includes/theme-options/theme-options.php:114
+#: includes/theme-options/theme-options.php:151
+#: includes/theme-options/theme-options.php:192
+#: includes/theme-options/theme-options.php:232
+#: includes/theme-options/theme-options.php:276
+#: includes/theme-options/theme-options.php:348
+msgctxt "Customizer panel title."
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: template-parts/component-notice-welcome.php:35
+msgctxt "%s: Theme name."
+msgid "Thank you for installing %s theme!"
+msgstr "¡Gracias por instalar el tema %s!"
+
+#: includes/setup/setup.php:421
+msgctxt "Header image description."
+msgid "Pouring coffee"
+msgstr "Echando café"
+
+#: includes/setup/setup.php:415
+msgctxt "Header image description."
+msgid "Restaurant interior from above"
+msgstr "Interior de restaurante desde arriba"
+
+#: includes/setup/setup.php:409
+msgctxt "Header image description."
+msgid "Coffee machine"
+msgstr "Cafetera"
+
+#: includes/welcome/class-welcome.php:147
+#: includes/welcome/class-welcome.php:149
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: template-parts/component-welcome-footer.php:38
+msgid "You can disable this page in Appearance &raquo; Customize &raquo; Theme Options &raquo; Others."
+msgstr "Puede desactivar esta página en Apariencia &raquo; Personalizar &raquo; Opciones del tema &raquo; Otros."
+
+#: template-parts/component-welcome-quickstart.php:62
+msgid "Customize the Theme &raquo;"
+msgstr "Personaliza el tema &raquo;"
+
+#: template-parts/component-welcome-quickstart.php:59
+msgid "Customization changes will go live only after you save them!"
+msgstr "¡Los cambios de personalización se harán efectivos solo después de guardarlos!"
+
+#: template-parts/component-welcome-quickstart.php:58
+msgid "You can customize the theme using live-preview editor."
+msgstr "Puedes personalizar el tema utilizando el editor de vista previa en vivo."
+
+#: template-parts/component-welcome-quickstart.php:55
+msgid "Customize the theme"
+msgstr "Personaliza el tema"
+
+#: template-parts/component-welcome-quickstart.php:47
+msgid "Set Up WordPress &raquo;"
+msgstr "Configurar WordPress &raquo;"
+
+#: template-parts/component-welcome-quickstart.php:40
+msgid "This step is required for all WordPress websites."
+msgstr "Este paso es obligatorio en todas las webs de WordPress."
+
+#: template-parts/component-welcome-quickstart.php:39
+msgid "Please go through all the subsections and options."
+msgstr "Por favor, ve a través de todas las subsecciones y opciones."
+
+#: template-parts/component-welcome-quickstart.php:38
+msgid "Do not forget to set up your WordPress in \"Settings\" section of the WordPress dashboard."
+msgstr "No olvides configurar tu WordPress en la sección \"Ajustes\" del escritorio de WordPress."
+
+#: template-parts/component-welcome-quickstart.php:35
+msgid "The WordPress settings"
+msgstr "Los ajustes de WordPress"
+
+#: template-parts/component-welcome-quickstart.php:27
+msgid "Quickstart Guide"
+msgstr "Guía de inicio rápido"
+
+#: template-parts/component-welcome-header.php:57
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: template-parts/component-welcome-header.php:50
+msgid "Please take time to read the steps below to set up your website."
+msgstr "Por favor, tómate tu tiempo para leer los pasos que se indican a continuación para configurar tu web."
+
+#: template-parts/component-welcome-header.php:43
+msgctxt "1: theme name, 2: theme developer link."
+msgid "Thank you for using %1$s WordPress theme by %2$s!"
+msgstr "¡Gracias por usar el tema %1$s de WordPress por %2$s!"
+
+#: template-parts/component-welcome-header.php:31
+msgctxt "1: theme name, 2: theme version number."
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#: includes/theme-options/theme-options.php:355
+msgid "Under \"Appearance\" WordPress dashboard menu"
+msgstr "En el menú «Apariencia» del escritorio de WordPress"
+
+#: template-parts/component-notice-welcome.php:48
+#: includes/theme-options/theme-options.php:354
+msgid "Show \"Welcome\" page"
+msgstr "Mostrar página \"Bienvenido/a\""
+
+#: includes/tgmpa/plugins.php:65
+msgid "One Click Demo Import (for installing theme demo content)"
+msgstr "One Click Demo Import (para instalar el contenido de demostración del tema)"
+
+#: includes/tgmpa/plugins.php:58
+msgid "Advanced Custom Fields (easy page setup)"
+msgstr "Advanced Custom Fields (configuración de página sencilla)"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgmpa/class-tgm-plugin-activation.php:2633
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgmpa/class-tgm-plugin-activation.php:2627
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/tgmpa/class-tgm-plugin-activation.php:2622
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2552
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#. translators: 1: install status, 2: update status
+#: includes/tgmpa/class-tgm-plugin-activation.php:2361
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: includes/tgmpa/class-tgm-plugin-activation.php:2001
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:415
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#. translators: %s: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:351
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:145
+msgid "View the list of required plugins &raquo;"
+msgstr "Ver la lista de plugins obligatorios &raquo;"
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:144
+msgid "Read the information before you run the theme demo content import process."
+msgstr "Lee la información antes de ejecutar el proceso de importación de contenido de demostración del tema."
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:143
+msgid "If you do not install and activate demo required plugins, some of the content will not be imported."
+msgstr "Si no instalas y activas los plugins obligatorios para la demo, parte del contenido no se importará."
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:142
+msgid "Please read the information about the theme demo required plugins first."
+msgstr "Por favor, le primero la información acerca de los plugins necesarios para la demostración del tema."
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:138
+msgid "Install demo required plugins!"
+msgstr "¡Instala los plugins necesarios para la demostración!"
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:130
+msgid "Get media for your website &raquo;"
+msgstr "Obtén los medios para tu web &raquo;"
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:129
+msgid "Please read \"Credits\" section of theme documentation for reference where the demo media files were obtained from."
+msgstr "Por favor, lee la sección \"Créditos\" de la documentación del tema para ver de dónde se obtuvieron los archivos de medios de la demostración."
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:128
+msgid "Please note that imported media files (such as images, video and audio files) are of low quality to prevent copyright infringement."
+msgstr "Tenga en cuenta que los archivos multimedia importados (como imágenes y archivos de vídeo y audio) son de baja calidad para evitar la infracción de los derechos de autor."
+
+#: includes/plugins/one-click-demo-import/class-one-click-demo-import.php:124
+msgid "Media files quality"
+msgstr "Calidad de los archivos multimedia"
+
+#: template-parts/menu-social.php:29
+msgid "Back to top"
+msgstr "Volver arriba"
+
+#: template-parts/menu-social.php:40
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: template-parts/loop-banner.php:72
+msgid "Site banner"
+msgstr "Banner del sitio"
+
+#: template-parts/content-attachment-image.php:34
+msgctxt "Attachment page image info table caption."
+msgid "Image info"
+msgstr "Información de la imagen"
+
+#: sidebar.php:36
+msgctxt "Sidebar aria label"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: sidebar-front-page.php:38
+msgctxt "Sidebar aria label"
+msgid "Front page sidebar"
+msgstr "Barra lateral de la página de inicio"
+
+#: sidebar-footer.php:38
+msgctxt "Sidebar aria label"
+msgid "Footer sidebar"
+msgstr "Barra lateral del pie de página"
+
+#: library/visual-editor.php:188 library/visual-editor.php:194
+#: library/visual-editor.php:200 library/visual-editor.php:206
+msgctxt "%d: Display text size number."
+msgid "Display %d"
+msgstr "Mostrar %d"
+
+#: library/visual-editor.php:184
+msgid "Text sizes"
+msgstr "Tamaños de texto"
+
+#: library/visual-editor.php:161 library/visual-editor.php:167
+#: library/visual-editor.php:173
+msgctxt "%d = HTML heading size number."
+msgid "Heading %d text style"
+msgstr "Estilo de texto del encabezado %d"
+
+#: library/visual-editor.php:155
+msgid "Subscript"
+msgstr "Subíndice"
+
+#: library/visual-editor.php:149
+msgid "Superscript"
+msgstr "Superíndice"
+
+#: library/visual-editor.php:144
+msgid "Small text"
+msgstr "Texto pequeño"
+
+#: library/customize.php:437
+msgctxt "Customizer section title."
+msgid "Background"
+msgstr "Fondo"
+
+#: library/core.php:562
+msgctxt "Paginated content title suffix, %s: page number."
+msgid "(page %s)"
+msgstr "(página %s)"
+
+#: library/core.php:461
+msgctxt "Post meta info description: tags list."
+msgid "Tagged as:"
+msgstr "Etiquetado como:"
+
+#: library/core.php:446
+msgctxt "Post meta info description: post bookmark link."
+msgid "Bookmark link:"
+msgstr "Enlace a favoritos:"
+
+#: library/core.php:374
+msgctxt "Post meta info description: publish date."
+msgid "Posted on:"
+msgstr "Publicado el:"
+
+#: library/core.php:361
+msgctxt "Title for number of comments in post meta."
+msgid "Comments:"
+msgstr "Comentarios:"
+
+#: library/core.php:361
+msgctxt "%s: number of comments."
+msgid "Comments: %s"
+msgstr "Comentarios: %s"
+
+#: library/core.php:360
+msgctxt "Post meta info description: comments count."
+msgid "Comments:"
+msgstr "Comentarios:"
+
+#: library/core.php:339
+msgctxt "Post meta info description: categories list."
+msgid "Categorized in:"
+msgstr "Categorizado en:"
+
+#: library/core.php:323
+msgctxt "Post meta info description: author name."
+msgid "Written by:"
+msgstr "Escrito por:"
+
+#: library/core.php:149
+msgctxt "%s: post title."
+msgid "\"%s\" table of contents"
+msgstr "Tabla de contenidos de \"%s\""
+
+#: library/controls/class-WM_Customizer_HTML.php:33
+msgid "Please set the `content` parameter for the HTML control."
+msgstr "Por favor, establece el parámetro `content` para el control HTML."
+
+#: includes/theme-options/theme-options.php:363
+msgid "Disable excerpt on single post page"
+msgstr "Desactivar el extracto en las entradas individuales"
+
+#: library/visual-editor.php:126
+msgid "Dropcap text"
+msgstr "Letra capital"
+
+#: includes/theme-options/theme-options.php:281
+msgctxt "%s: linked source website name."
+msgid "Font matches recommendations from %s."
+msgstr "Recomendaciones de combinaciones de fuentes de %s."
+
+#: includes/theme-options/theme-options.php:275
+msgctxt "Customizer section title."
+msgid "Typography"
+msgstr "Tipografía"
+
+#: includes/theme-options/theme-options.php:191
+msgctxt "Customizer color section title"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: includes/theme-options/theme-options.php:150
+msgctxt "Customizer color section title"
+msgid "Content"
+msgstr "Contenido"
+
+#: includes/theme-options/theme-options.php:113
+msgctxt "Customizer color section title"
+msgid "Header"
+msgstr "Cabecera"
+
+#: includes/theme-options/theme-options.php:75
+msgctxt "Customizer color section title"
+msgid "Accents"
+msgstr "Acentos"
+
+#: includes/theme-options/theme-options.php:75
+#: includes/theme-options/theme-options.php:113
+#: includes/theme-options/theme-options.php:150
+#: includes/theme-options/theme-options.php:191
+msgctxt "%s = section name. Customizer section title."
+msgid "Colors: %s"
+msgstr "Colores: %s"
+
+#: includes/theme-options/theme-options.php:64
+msgid "Thank you for using this awesome theme!"
+msgstr "¡Gracias por usar este tema impresionante!"
+
+#: includes/theme-options/theme-options.php:59
+msgctxt "%s: theme author link."
+msgid "You can obtain other professional WordPress themes at %s."
+msgstr "Puedes conseguir otros temas profesionales de WordPress en %s."
+
+#: includes/theme-options/theme-options.php:52
+msgctxt "1: linked theme name, 2: theme author name."
+msgid "%1$s is a WordPress theme developed by %2$s."
+msgstr "%1$s es un tema para WordPress desarrollado por %2$s."
+
+#: includes/tgmpa/plugins.php:51
+msgid "Beaver Builder (easy page builder)"
+msgstr "Beaver Builder (maquetador de páginas sencillo)"
+
+#: includes/tgmpa/plugins.php:45
+msgid "Jetpack by WordPress.com (adds theme features)"
+msgstr "Jetpack de WordPress.com (añade características del tema)"
+
+#: includes/setup/setup.php:3049
+msgctxt "Pagination text (visible): next."
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: includes/setup/setup.php:3048
+msgctxt "Pagination text (hidden): next."
+msgid "Next page"
+msgstr "Siguiente página"
+
+#: includes/setup/setup.php:3047
+msgctxt "Pagination text (hidden): previous."
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: includes/setup/setup.php:3046
+msgctxt "Pagination text (visible): previous."
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: template-parts/component-link-more.php:22
+msgctxt "%s: Name of current post."
+msgid "Continue reading%s&hellip;"
+msgstr "Seguir leyendo%s&hellip;"
+
+#: includes/setup/setup.php:2766
+msgid "Enter the password to view it."
+msgstr "Introduce la contraseña para verlo."
+
+#: includes/setup/setup.php:2764
+msgid "This content is password protected."
+msgstr "Este contenido está protegido por contraseña."
+
+#: includes/setup/setup.php:2686
+msgid "Next post"
+msgstr "Siguiente entrada"
+
+#: includes/setup/setup.php:2685
+msgid "Previous post"
+msgstr "Entrada anterior"
+
+#: includes/setup/setup.php:2197
+msgid "Breadcrumbs navigation"
+msgstr "Navegación de migas de pan"
+
+#: includes/plugins/jetpack/class-nova-restaurant.php:180
+msgid "DOWN"
+msgstr "ABAJO"
+
+#: includes/plugins/jetpack/class-nova-restaurant.php:180
+msgid "Move menu section down"
+msgstr "Mover la sección del menú hacia abajo"
+
+#: includes/plugins/jetpack/class-nova-restaurant.php:179
+msgid "UP"
+msgstr "ARRIBA"
+
+#: includes/plugins/jetpack/class-nova-restaurant.php:179
+msgid "Move menu section up"
+msgstr "Mover la sección del menú hacia arriba"
+
+#: includes/plugins/jetpack/class-nova-restaurant.php:170
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+#: includes/plugins/jetpack/class-nova-restaurant.php:166
+msgid "edit"
+msgstr "editar"
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:202
+msgid "Featured post options"
+msgstr "Opciones de entrada destacada"
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:162
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:210
+msgid "This text will override the default text displayed in your website front page banner."
+msgstr "Este texto anulará el texto predeterminado que se muestra en el banner de la página de inicio de la web."
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:159
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:207
+msgid "Banner text"
+msgstr "Texto del banner"
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:154
+msgid "Front page options"
+msgstr "Opciones de página de inicio"
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:116
+msgid "John Doe"
+msgstr "Juan Pérez"
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:114
+msgid "In case you have not provided the quote source in using the \"cite\" HTML tag in post content, you can set it here."
+msgstr "En caso de que no hayas proporcionado la fuente de la cita en el uso de la etiqueta \"cite\" HTML en el contenido de la entrada, puede establecerlo aquí."
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:111
+msgid "Quote source"
+msgstr "Fuente de la cita"
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:106
+msgid "Quote post format options"
+msgstr "Opciones de formato de cita para entradas"
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:65
+msgid "Set this if you want to display a specific food menu section on the page."
+msgstr "Configura esto si quieres mostrar una sección específica del menú de comida de la página."
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:62
+msgid "Food menu section"
+msgstr "Sección del menú de platos"
+
+#: includes/plugins/advanced-custom-fields/advanced-custom-fields.php:57
+msgid "Food menu page template options"
+msgstr "Opciones de plantilla de la página de menú de platos"
+
+#: footer-credits.php:52
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2778
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se había seleccionado ningún plugin que actualizar. No se ha realizado ninguna acción."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2953
+msgid "No plugins are available to be activated at this time."
+msgstr "Ahora mismo no hay plugins que activar."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2776
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se había seleccionado ningún plugin que instalar. No se ha realizado ninguna acción."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be installed at this time."
+msgstr "Ahora mismo no hay plugins que instalar."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2927
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se había seleccionado ningún plugin que activar. No se ha realizado ninguna acción."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2821
+msgid "No plugins are available to be updated at this time."
+msgstr "Ahora mismo no hay plugins que actualizar."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2703
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2742
+msgid "Update"
+msgstr "Actualizar"
+
+#. translators: 1: number of plugins.
+#: includes/tgmpa/class-tgm-plugin-activation.php:2419
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2501
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2517
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2509
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2529
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2572
+msgid "Version"
+msgstr "Versión"
+
+#. translators: 1: number of plugins.
+#: includes/tgmpa/class-tgm-plugin-activation.php:2411
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: includes/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:542
+msgid "Update Required"
+msgstr "Debe actualizarse"
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:409
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya estaba activo."
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:411
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:416
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, pídele ayuda al administrador de este sitio."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:541
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:953
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y renombrarlo no ha funcionado."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:953
+#: includes/tgmpa/class-tgm-plugin-activation.php:956
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:956
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:1140
+#: includes/tgmpa/class-tgm-plugin-activation.php:2967
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2314
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2340
+msgid "Active"
+msgstr "Activo"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2346
+msgid "Required Update not Available"
+msgstr "Actualización necesaria no disponible"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2349
+msgid "Requires Update"
+msgstr "Debe actualizarse"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2352
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#. translators: 1: number of plugins.
+#: includes/tgmpa/class-tgm-plugin-activation.php:2407
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todo <span class=\"count\">(%s)</span>"
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:371
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:394
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:352
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha salido mal con la API de plugins."
+
+#. Template Name of the theme
+#. translators: Custom page template name.
+#: page-template/_fullwidth.php:15
+msgid "Fullwidth page"
+msgstr "Página de ancho completo"
+
+#: sidebar.php:38
+msgid "Toggle sidebar"
+msgstr "Conmutar la barra lateral"
+
+#: searchform.php:24
+msgid "Search field: type and press enter"
+msgstr "Campo de búsqueda: escribe y pulsa entrar"
+
+#: searchform.php:21
+msgctxt "Search field label."
+msgid "Search"
+msgstr "Buscar"
+
+#: search.php:29
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: template-parts/loop-food-menu.php:58
+msgctxt "Food menu title."
+msgid "Menu"
+msgstr "Menú"
+
+#: template-parts/loop-blog-condensed.php:43
+msgid "News"
+msgstr "Noticias"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3539
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3537
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3536
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3522
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3534
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3531
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3529
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han terminado."
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3528
+#: includes/tgmpa/class-tgm-plugin-activation.php:3536
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3528
+#: includes/tgmpa/class-tgm-plugin-activation.php:3536
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:3528
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3526
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:3177
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2573
+msgid "Status"
+msgstr "Estado"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2568
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2567
+msgid "Source"
+msgstr "Fuente"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2566
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2745
+msgid "Activate"
+msgstr "Activar"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2736
+msgid "Install"
+msgstr "Instalar"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2338
+msgid "Installed But Not Activated"
+msgstr "Instalado pero inactivo"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2334
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "Required"
+msgstr "Necesario"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2311
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:2317
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:405
+#: includes/tgmpa/class-tgm-plugin-activation.php:846
+#: includes/tgmpa/class-tgm-plugin-activation.php:2552
+#: includes/tgmpa/class-tgm-plugin-activation.php:3599
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:414
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: includes/tgmpa/class-tgm-plugin-activation.php:413
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugin instalados y activados correctamente. %1$s"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:407
+#: includes/tgmpa/class-tgm-plugin-activation.php:2971
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El plugin siguiente se ha activado correctamente:"
+msgstr[1] ""
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:406
+#: includes/tgmpa/class-tgm-plugin-activation.php:3178
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:389
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:365
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Este plugin debe actualizarse a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+msgstr[1] "Estos plugins deben actualizarse a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:383
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:377
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:359
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el plugin: %1$s."
+msgstr[1] "Este tema recomienda los plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: includes/tgmpa/class-tgm-plugin-activation.php:353
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#. translators: %s: plugin name.
+#: includes/tgmpa/class-tgm-plugin-activation.php:349
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:347
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: includes/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: template-parts/menu-social.php:30 footer-credits.php:61
+msgid "Back to top &uarr;"
+msgstr "Volver arriba &uarr;"
+
+#: includes/setup/setup.php:3087
+msgid "All posts"
+msgstr "Todas las entradas"
+
+#: includes/setup/setup.php:3057
+msgid "Posts Navigation"
+msgstr "Navegación de entradas"
+
+#: includes/setup/setup.php:2730
+msgid "This is sticky post"
+msgstr "Ésta es una entrada fija"
+
+#: template-parts/menu-primary.php:43
+msgctxt "Mobile navigation toggle button title."
+msgid "Menu"
+msgstr "Menú"
+
+#: template-parts/menu-primary-search.php:30
+msgctxt "Display search form button title."
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/setup/setup.php:1116
+msgctxt "Back to food menu sections selectors button title."
+msgid "&uarr; Menu sections"
+msgstr "&uarr; Secciones del menú"
+
+#: includes/setup/setup.php:712
+msgid "Additional image size added by the theme. Can not be changed on this page."
+msgstr "Tamaño de imagen adicional añadido por el tema. No se puede cambiar en esta página."
+
+#: includes/setup/setup.php:717
+msgctxt "1: image width, 2: image height, 3: cropped or scaled?"
+msgid "%1$d &times; %2$d, %3$s"
+msgstr "%1$d &times; %2$d, %3$s"
+
+#: includes/setup/setup.php:704
+msgid "scaled"
+msgstr "escalado"
+
+#: includes/setup/setup.php:704
+msgid "cropped"
+msgstr "recortado"
+
+#: includes/setup/setup.php:696
+msgid "Theme usage"
+msgstr "Uso del tema"
+
+#: includes/setup/setup.php:695
+msgid "Size parameters"
+msgstr "Parámetros de tamaño"
+
+#: includes/setup/setup.php:694
+msgid "Size name"
+msgstr "Nombre del tamaño"
+
+#: includes/setup/setup.php:688
+msgid "For the theme to work correctly, please, set these recommended image sizes:"
+msgstr "Para que el tema funcione correctamente, por favor, establece estos tamaños de imagen recomendados:"
+
+#: includes/setup/setup.php:687
+msgid "Recommended image sizes"
+msgstr "Tamaños de imagen recomendados"
+
+#: includes/setup/setup.php:654
+msgctxt "WordPress predefined image size name."
+msgid "Large size"
+msgstr "Tamaño grande"
+
+#: includes/setup/setup.php:653
+msgctxt "WordPress predefined image size name."
+msgid "Medium size"
+msgstr "Tamaño medio"
+
+#: includes/setup/setup.php:652
+msgctxt "WordPress predefined image size name."
+msgid "Thumbnail size"
+msgstr "Tamaño de la miniatura"
+
+#: includes/setup/setup.php:582
+msgid "In food menu list."
+msgstr "En lista de menú de platos."
+
+#: includes/setup/setup.php:576
+msgid "In front page banner."
+msgstr "En el banner de la página de inicio."
+
+#: includes/setup/setup.php:570
+msgid "In single post page."
+msgstr "En la entrada invidual."
+
+#: includes/setup/setup.php:559
+msgid "In posts list."
+msgstr "En la lista de entradas."
+
+#: includes/setup/setup.php:340
+msgid "Social Links Menu"
+msgstr "Menú de enlaces sociales"
+
+#: template-parts/menu-primary.php:20 includes/setup/setup.php:339
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: includes/setup/setup.php:239
+msgid "Masonry layout is used to display footer widgets."
+msgstr "El diseño de cuadrícula irregular se utiliza para mostrar widgets de pie de página."
+
+#: includes/setup/setup.php:238
+msgid "Footer Widgets"
+msgstr "Widgets de pie de página"
+
+#: includes/setup/setup.php:235
+msgid "This widgets area is displayed below the Banner area on the front page (homepage)."
+msgstr "Este área de widgets se muestra debajo del área del banner en la página de inicio."
+
+#: includes/setup/setup.php:234
+msgid "Front Page Widgets"
+msgstr "Widgets de la página de inicio"
+
+#: includes/setup/setup.php:231
+msgid "Page sidebar."
+msgstr "Barra lateral en las páginas."
+
+#: includes/setup/setup.php:230
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: includes/setup/setup.php:178
+msgctxt "Title for selection of fonts picked from Google Fontss"
+msgid "Fonts selection"
+msgstr "Selección de fuentes"
+
+#: includes/setup/setup.php:129 includes/setup/setup.php:134
+#: includes/setup/setup.php:140 includes/setup/setup.php:145
+#: includes/setup/setup.php:150 includes/setup/setup.php:155
+#: includes/setup/setup.php:160 includes/setup/setup.php:164
+#: includes/setup/setup.php:170
+msgctxt "Google Font setup recommendation (numbered) group title."
+msgid "Recommendation #%d"
+msgstr "Recomendación #%d"
+
+#: includes/setup/setup.php:123
+msgctxt "Google Font default setup options group title."
+msgid "Theme default"
+msgstr "Valores por defecto del tema"
+
+#: includes/setup/setup.php:119
+msgid " - do not use Google Font"
+msgstr " - no usar Google Font"
+
+#: includes/theme-options/theme-options.php:49
+msgid "Theme Credits"
+msgstr "Theme Credits"
+
+#. Template Name of the theme
+#. translators: Custom page template name.
+#: page-template/_menu.php:17 includes/theme-options/theme-options.php:256
+msgid "Food menu"
+msgstr "Menú de platos"
+
+#: includes/theme-options/theme-options.php:250
+#: includes/theme-options/theme-options.php:264
+msgid "Second section below page content"
+msgstr "Segunda sección debajo del contenido de la página"
+
+#: includes/theme-options/theme-options.php:249
+#: includes/theme-options/theme-options.php:263
+msgid "First section below page content"
+msgstr "Primera sección debajo del contenido de la página"
+
+#: includes/theme-options/theme-options.php:248
+#: includes/theme-options/theme-options.php:262
+msgid "Second section above page content"
+msgstr "Segunda sección encima del contenido de la página"
+
+#: includes/theme-options/theme-options.php:247
+#: includes/theme-options/theme-options.php:261
+msgid "First section above page content"
+msgstr "Primera sección encima del contenido de la página"
+
+#: includes/theme-options/theme-options.php:246
+#: includes/theme-options/theme-options.php:260
+msgid "Disable section"
+msgstr "Desactivar sección"
+
+#: includes/theme-options/theme-options.php:243
+#: includes/theme-options/theme-options.php:257
+msgid "Select if and where to display this page section"
+msgstr "Selecciona si y dónde mostrar esta sección de página"
+
+#: includes/theme-options/theme-options.php:242
+msgid "Condensed blog posts"
+msgstr "Entradas de blog condensadas"
+
+#: includes/theme-options/theme-options.php:237
+msgid "Front page layout"
+msgstr "Diseño de la página de inicio"
+
+#: includes/theme-options/theme-options.php:231
+msgctxt "Customizer section title."
+msgid "Layout"
+msgstr "Disposición"
+
+#: includes/theme-options/theme-options.php:321
+msgid "All other font sizes are calculated automatically from this basic font size"
+msgstr "Todos los demás tamaños de fuente se calculan automáticamente a partir de este tamaño de fuente básico"
+
+#: includes/theme-options/theme-options.php:320
+msgid "Basic font size"
+msgstr "Tamaño de fuente básico"
+
+#: includes/theme-options/theme-options.php:312
+msgid "Font subset"
+msgstr "Subconjunto de fuente"
+
+#: includes/theme-options/theme-options.php:303
+msgid "General text font"
+msgstr "Fuente del texto general"
+
+#: includes/theme-options/theme-options.php:295
+msgid "Headings font"
+msgstr "Fuente de los encabezados"
+
+#: includes/theme-options/theme-options.php:287
+msgid "Logo (site title) font"
+msgstr "Fuente del logotipo (título del sitio)"
+
+#: includes/theme-options/theme-options.php:281
+msgid "Set a Google Font to be used for website logo, headings and general text."
+msgstr "Establece una fuente de Google para que se use en el logotipo de la web, encabezados y texto general."
+
+#: includes/theme-options/theme-options.php:347
+msgctxt "Customizer section title."
+msgid "Others"
+msgstr "Otros"
+
+#: includes/theme-options/theme-options.php:156
+msgid "Front page widgets"
+msgstr "Widgets de la página de inicio"
+
+#: includes/theme-options/theme-options.php:135
+msgid "Note that for certain header elements the color will be faded out a bit."
+msgstr "Tenga en cuenta que para ciertos elementos de la cabecera el color se desvanecerá un poco."
+
+#: includes/theme-options/theme-options.php:134
+#: includes/theme-options/theme-options.php:176
+#: includes/theme-options/theme-options.php:212
+msgid "Text color"
+msgstr "Color de texto"
+
+#: includes/theme-options/theme-options.php:120
+#: includes/theme-options/theme-options.php:162
+#: includes/theme-options/theme-options.php:198
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: includes/theme-options/theme-options.php:98
+msgid "Color of text over accent color background"
+msgstr "Color del texto sobre el fondo de color de acento"
+
+#: includes/theme-options/theme-options.php:97
+msgid "Accent text color"
+msgstr "Texto de color de acento"
+
+#: includes/theme-options/theme-options.php:83
+msgid "This color affects links, buttons and other elements of the website"
+msgstr "Este color afecta a los enlaces, botones y otros elementos de la web"
+
+#: includes/theme-options/theme-options.php:82
+msgid "Accent color"
+msgstr "Color de énfasis"
+
+#: includes/theme-options/theme-options.php:374
+msgctxt "Customizer panel title."
+msgid "Theme"
+msgstr "Tema"
+
+#: library/customize.php:442
+msgctxt "Customizer section title."
+msgid "Header"
+msgstr "Cabecera"
+
+#: includes/setup/setup.php:912
+msgid "Button link"
+msgstr "Enlace del botón"
+
+#: library/visual-editor.php:138
+msgid "Highlighted (marked) text"
+msgstr "Texto resaltado (marcado)"
+
+#: library/visual-editor.php:132
+msgid "Uppercase heading or paragraph"
+msgstr "Encabezado o párrafo en mayúsculas"
+
+#: library/visual-editor.php:122
+msgid "Text styles"
+msgstr "Estilos de texto"
+
+#: library/visual-editor.php:241
+msgctxt "Visual editor format label for HTML CITE tag used to set the blockquote source."
+msgid "Cite"
+msgstr "Citar"
+
+#: library/visual-editor.php:234
+msgid "Pullquote - align right"
+msgstr "Cita - alineada a la derecha"
+
+#: library/visual-editor.php:227
+msgid "Pullquote - align left"
+msgstr "Cita - alineada a la izquierda"
+
+#: library/visual-editor.php:221
+msgid "Blockquote"
+msgstr "Cita"
+
+#: library/visual-editor.php:217
+msgctxt "Visual editor blockquote formats group title."
+msgid "Quotes"
+msgstr "Citas"
+
+#: library/core.php:475
+msgid "Views count"
+msgstr "Número de vistas"
+
+#: library/core.php:447
+msgid "Permalink to \"%s\""
+msgstr "Enlace permanente a \"%s\""
+
+#: library/core.php:399
+msgctxt "Edit post link."
+msgid "Edit"
+msgstr "Editar"
+
+#: library/core.php:399
+msgid "Edit the \"%s\""
+msgstr "Editar el \"%s\""
+
+#: library/core.php:187
+msgid "Page %s"
+msgstr "Página %s"
+
+#: includes/plugins/jetpack/jetpack.php:246
+msgid "Load more&hellip;"
+msgstr "Cargar más&hellip;"
+
+#: library/controls/class-WM_Customizer_Multiselect.php:42
+msgid "Press CTRL key for multiple selection."
+msgstr "Pulsa la tecla CTRL para hacer selección múltiple."
+
+#: template-parts/content-attachment-image.php:53
+msgid "Image file name:"
+msgstr "Nombre del archivo de imagen:"
+
+#: template-parts/content-attachment-image.php:46
+msgid "Image size:"
+msgstr "Tamaño de Imagen:"
+
+#: template-parts/content-attachment-image.php:39
+msgctxt "Attachment page publish time."
+msgid "Image published on:"
+msgstr "Imagen publicada el:"
+
+#: template-parts/content-none.php:50
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que buscas. Tal vez la búsqueda pueda ayudarte."
+
+#: template-parts/content-none.php:44
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#: template-parts/content-none.php:34
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:22
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:117
+msgid "Newer comments &rarr;"
+msgstr "Comentarios más recientes &rarr;"
+
+#: comments.php:116
+msgid "&larr; Older comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: comments.php:112
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:72
+msgid "Comments are closed. You can not add new comments."
+msgstr "Comentarios cerrados. No se pueden añadir más comentarios a esta entrada."
+
+#: comments.php:55
+msgctxt "Add new comment link text."
+msgid "Add yours &rarr;"
+msgstr "Añade los tuyos &rarr;"
+
+#: comments.php:48
+msgctxt "Comments list title."
+msgid "%1$d comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$d comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$d comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$d comentarios en &ldquo;%2$s&rdquo;"
+
+#: 404.php:30
+msgid "It looks like nothing was found at this location. Maybe try the search below?"
+msgstr "Parece que no hay nada en este lugar. ¿Y si pruebas una búsqueda?"
+
+#: 404.php:24
+msgid "Oops! That page can not be found."
+msgstr "¡Lo sentimos! No podemos encontrar esa página."
+
+#. Author of the theme
+msgid "WebMan Design"
+msgstr "WebMan Design"
+
+#. Author URI of the theme
+msgid "https://www.webmandesign.eu/"
+msgstr "https://www.webmandesign.eu/"
+
+#. Theme URI of the theme
+msgid "https://www.webmandesign.eu/portfolio/auberge-wordpress-theme/"
+msgstr "https://www.webmandesign.eu/portfolio/auberge-wordpress-theme/"

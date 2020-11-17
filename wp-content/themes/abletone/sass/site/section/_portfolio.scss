@@ -1,0 +1,112 @@
+/**
+ * 7.3.13 - Portfolio & Stats
+ */
+
+ .portfolio-content-wrapper {
+    overflow: hidden;
+}
+
+.portfolio-content-wrapper .hentry {
+    height: auto;
+    line-height: 1;
+}
+
+.portfolio-content-wrapper .hentry-inner {
+    overflow: hidden;
+    position: relative;
+}
+
+.portfolio-content-wrapper .entry-container {
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+    height: 100%;
+    width: 100%;
+    -webkit-transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -o-transition: opacity .2s ease-in-out;
+    transition: opacity .2s ease-in-out;
+}
+
+#portfolio-content-section {
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    width: 100%;
+}
+
+.portfolio-content-wrapper .entry-container > .entry-container-inner-wrap {
+    display: block;
+    padding: 21px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%,-50%);
+}
+
+.section-content-wrapper.portfolio-content-wrapper .post-thumbnail {
+    margin: 0;
+    margin-bottom: 0;
+    max-width: 100%;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: -webkit-transform .2s ease-in-out;
+    -moz-transition: transform .2s ease-in-out;
+    -ms-transition: -ms-transform .2s ease-in-out;
+    -o-transition: transform .2s ease-in-out;
+    transition: transform .2s ease-in-out;
+}
+
+.portfolio-content-wrapper .hentry-inner:hover .post-thumbnail,
+.portfolio-content-wrapper .hentry-inner:focus .post-thumbnail {
+    -webkit-transform: scale(1.025);
+    -ms-transform: scale(1.025);
+    transform: scale(1.025);
+}
+
+.portfolio-content-wrapper .entry-title,
+.portfolio-content-wrapper .entry-meta {
+    font-weight: 500;
+    margin: 0;
+}
+
+.portfolio-content-wrapper .entry-header .entry-meta {
+    letter-spacing: 0;
+    text-transform: uppercase;
+}
+
+.portfolio-content-wrapper .entry-meta a {
+    text-decoration: none;
+}
+
+.portfolio-content-wrapper .entry-summary {
+    display: none;
+}
+
+.stats-content-wrapper .post-thumbnail {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80px;
+}
+
+.stats-content-wrapper .entry-container {
+    text-align: center;
+
+    .more-button {
+        display: block;
+    }
+}
+
+.promotion-section .cover-link:before {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    content: "";
+}

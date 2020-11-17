@@ -1,0 +1,104 @@
+/* -----------------------------------------
+	10. External Plugins
+----------------------------------------- */
+
+/* Jetpack Sharing */
+.sharedaddy { margin-top:30px; }
+
+/* WPZOOM Social Feed Widget */
+.footer-widget-area {
+  padding-top: 30px;
+
+  .widget {
+	padding: 0;
+	margin: 0;
+	border: none;
+  }
+
+  .widget-title {
+	display: none;
+  }
+}
+
+.zoom-instagram-widget {
+  .zoom-instagram-widget__items {
+	padding: 0;
+	margin: 0;
+
+	.zoom-instagram-widget__item {
+	  margin: 0 !important;
+	}
+  }
+
+  .zoom-instagram-widget__follow-me {
+	a {
+	  display: inline-block;
+	  font-weight: normal;
+	  margin: 0;
+	  line-height: normal;
+	  border: none;
+	  border-radius: 0;
+	  box-shadow: none;
+	  text-align: center;
+	  vertical-align: middle;
+	  cursor: pointer;
+	  white-space: nowrap;
+	  transition: 0.18s background-color ease, color 0.18s ease, 0.18s border-color ease;
+	  -webkit-user-select: none;
+	  -moz-user-select: none;
+	  user-select: none;
+	  width: auto;
+	  height: auto;
+	  background-image: none;
+	  padding: 12px 25px 11px;
+	  font-size: 11px;
+	  font-weight: bold !important;
+	  background: $link-color;
+	  color: #FFF !important;
+	  text-transform: uppercase;
+
+	  &:active {
+		outline: none;
+	  }
+
+	  &:hover {
+		background: $primary-color;
+		color: #FFF;
+		text-decoration: none;
+	  }
+
+	  &:focus {
+		outline: none;
+	  }
+	}
+  }
+
+  .footer-widget-area & {
+	.zoom-instagram-widget__item {
+	  a {
+		width: 127px !important;
+		height: 127px !important;
+	  }
+	}
+
+	.zoom-instagram-widget__follow-me {
+	  display: none;
+	}
+  }
+}
+
+/* Mailchimp Widget */
+.mc4wp-form {
+
+	p {
+		margin-bottom: 5px;
+	}
+
+	input[type="email"] {
+		padding: 6px 15px;
+	}
+
+	input[type="submit"] {
+		width: 100%;
+	}
+}

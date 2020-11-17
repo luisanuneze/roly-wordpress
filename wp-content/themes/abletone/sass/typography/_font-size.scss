@@ -1,0 +1,140 @@
+/**
+ * 2.3 - Font-size
+ */
+
+body {
+	font-size: 18px;
+	font-size: 1.125rem;
+	font-weight: 400;
+	line-height: 1.67;
+}
+
+input,
+select,
+textarea,
+.sidebar .team-content-wrapper .entry-container >  *,
+.main-navigation a,
+.menu-toggle,
+.wp-playlist-item-title {
+	font-size: 16px;
+	font-size: 1rem;
+	line-height: 1.75;
+}
+
+.entry-content h1,
+.entry-summary h1,
+.comment-content h1,
+.textwidget h1,
+.home .header-media .entry-title,
+ #feature-slider-section .entry-title,
+#footer-instagram .widget-title,
+.section-title,
+#hero-section .entry-title,
+#playlist-section .entry-title,
+.singular-content-wrap .entry-title,
+.page-title,
+#contact-section .entry-title,
+.archive-post-wrap .hentry .entry-title,
+.events-content-wrapper .date-week-day {
+    font-size: 32px;
+    font-size: 2rem;
+}
+
+.archive-posts-wrapper .entry-title,
+.woocommerce-posts-wrapper .entry-title,
+#stats-section h2.entry-title {
+	font-size: 26px;
+	font-size: 1.625rem;
+}
+
+.featured-video-content-wrapper .entry-title {
+	font-size: 1em;
+}
+
+#feature-slider-section .entry-meta {
+	font-size: 0.857em;
+}
+
+.entry-title,
+.comments-title,
+.site-title,
+.comment-reply-title,
+ul.products li.product .woocommerce-loop-product__title {
+	font-size: 21px;
+	font-size: 1.3125rem;
+}
+
+.widget,
+.widget .hentry .entry-title,
+.site-header .icon,
+.search-submit,
+.pagination,
+.woocommerce-pagination,
+.breadcrumb-area,
+aside.footer-widget-area .widge,
+.sidebar .widget,
+.widget .widget-title,
+ul.products li.product .woocommerce-loop-product__title,
+.post-navigation .nav-title,
+.author-description .author-title,
+.menu-toggle-close,
+.dropdown-toggle,
+.search-toggle:before,
+.search-submit:before,
+.cart-contents:before,
+.navigation.pagination a,
+.menu-label,
+.menu-toggle,
+.main-navigation a {
+	font-size: 16px;
+	font-size: 1rem;
+}
+
+.page .site-main .entry-footer .entry-meta,
+.single .site-main .entry-footer .entry-meta,
+.wp-playlist-item-artist,
+button,
+.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.team-content-wrapper .entry-meta,
+.wpcf7 label {
+	font-size: 13px;
+	font-size: 0.8125rem;
+}
+
+.posts-navigation,
+#content #infinite-handle span button,
+.comment-notes,
+.comment-awaiting-moderation,
+.logged-in-as,
+.form-allowed-tags,
+.comment-subscription-form {
+	font-size: 14px;
+	font-size: 0.875rem;
+}
+
+.site-info,
+.site-description,
+.entry-footer .entry-meta,
+#testimonial-content-section .entry-meta,
+.more-link,
+.entry-meta,
+.breadcrumb-area,
+.woocommerce .woocommerce-breadcrumb,
+.post-navigation .meta-nav,
+.woocommerce-review__published-date,
+.widget-title {
+	font-size: 13px;
+	font-size: 0.8125rem;
+}
+
+.post-navigation .nav-subtitle {
+	font-size: 12px;
+	font-size: 0.75rem;
+}
+
+big {
+	font-size: 125%;
+}

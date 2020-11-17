@@ -1,0 +1,737 @@
+# Copyright (C) 2020 Firefly Themes
+msgid ""
+msgstr ""
+"Project-Id-Version: JetBlack 1.0.0\n"
+"Report-Msgid-Bugs-To: https://fireflythemes.com/contact/\n"
+"POT-Creation-Date: 2020-08-12 16:08:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Firefly Themes <info@fireflythemes.com>\n"
+"Language-Team: Firefly Themes <info@fireflythemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:24 inc/custom-header.php:122
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:24
+msgid "Go to Top"
+msgstr ""
+
+#: functions.php:69 template-parts/navigation/navigation-primary.php:14
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:70
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:126
+msgid "Small"
+msgstr ""
+
+#: functions.php:127
+msgid "S"
+msgstr ""
+
+#: functions.php:132
+msgid "Normal"
+msgstr ""
+
+#: functions.php:133
+msgid "M"
+msgstr ""
+
+#: functions.php:138
+msgid "Large"
+msgstr ""
+
+#: functions.php:139
+msgid "L"
+msgstr ""
+
+#: functions.php:144
+msgid "Huge"
+msgstr ""
+
+#: functions.php:145
+msgid "XL"
+msgstr ""
+
+#: functions.php:155
+msgid "White"
+msgstr ""
+
+#: functions.php:160
+msgid "Black"
+msgstr ""
+
+#: functions.php:165
+msgid "Dark Gray"
+msgstr ""
+
+#: functions.php:170
+msgid "Gray"
+msgstr ""
+
+#: functions.php:175
+msgid "Light Gray"
+msgstr ""
+
+#: functions.php:180
+msgid "Blue"
+msgstr ""
+
+#: functions.php:233
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:235
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:240
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:242 functions.php:249 functions.php:256
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:247
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:254
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:408
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:409
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/breadcrumb.php:31
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb.php:33
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$s Archive for %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:35
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sSearch results for: %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:37
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sPosts tagged %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:39
+#. translators: 1: before text/html, 2: after text/html.
+msgid "%1$sView all posts by %2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:40
+msgid "%1$sError 404%2$s"
+msgstr ""
+
+#: inc/breadcrumb.php:60
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb.php:84 inc/breadcrumb.php:86 inc/breadcrumb.php:90
+#: inc/breadcrumb.php:94 inc/template-tags.php:305 inc/template-tags.php:307
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumb.php:86 inc/breadcrumb.php:92
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumb.php:88
+msgid "d"
+msgstr ""
+
+#: inc/breadcrumb.php:176
+#. translators: %s: current page number.
+msgid "Page %s"
+msgstr ""
+
+#: inc/custom-header.php:129 search.php:26
+#. translators: %s: search query.
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/custom-controls.php:230
+msgid "Add"
+msgstr ""
+
+#: inc/customizer/custom-controls.php:382 inc/customizer/utilities.php:103
+msgid "ID: %s No Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:56
+msgid "Excluding Homepage"
+msgstr ""
+
+#: inc/customizer/customizer.php:65 inc/customizer/featured-content.php:42
+#: inc/customizer/hero-content.php:39 inc/customizer/portfolio.php:40
+#: inc/customizer/slider.php:40 inc/customizer/testimonial.php:40
+#: inc/customizer/wwd.php:40
+msgid "Visible On"
+msgstr ""
+
+#: inc/customizer/customizer.php:74
+msgid "JetBlack Pro Available"
+msgstr ""
+
+#: inc/customizer/featured-content.php:58 inc/customizer/portfolio.php:56
+#: inc/customizer/testimonial.php:51 inc/customizer/wwd.php:51
+msgid "Section Top Sub-title"
+msgstr ""
+
+#: inc/customizer/featured-content.php:69 inc/customizer/portfolio.php:67
+#: inc/customizer/testimonial.php:62 inc/customizer/wwd.php:62
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/featured-content.php:80 inc/customizer/portfolio.php:78
+#: inc/customizer/testimonial.php:73 inc/customizer/wwd.php:73
+msgid "Section Subtitle"
+msgstr ""
+
+#: inc/customizer/featured-content.php:90 inc/customizer/portfolio.php:88
+#: inc/customizer/slider.php:50 inc/customizer/testimonial.php:84
+#: inc/customizer/wwd.php:83
+msgid "Number"
+msgstr ""
+
+#: inc/customizer/featured-content.php:91 inc/customizer/portfolio.php:89
+#: inc/customizer/slider.php:51 inc/customizer/testimonial.php:85
+#: inc/customizer/wwd.php:84
+msgid "Please refresh the customizer page once the number is changed."
+msgstr ""
+
+#: inc/customizer/featured-content.php:112 inc/customizer/hero-content.php:55
+#: inc/customizer/portfolio.php:110 inc/customizer/slider.php:83
+#: inc/customizer/testimonial.php:106 inc/customizer/wwd.php:138
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/featured-content.php:130 inc/customizer/header-options.php:71
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/featured-content.php:141 inc/customizer/header-options.php:81
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/featured-content.php:152 inc/customizer/header-options.php:91
+msgid "Open link in new tab?"
+msgstr ""
+
+#: inc/customizer/header-options.php:21
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/header-options.php:31
+#: template-parts/header/quick-contact.php:22
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/header-options.php:41
+#: template-parts/header/quick-contact.php:18
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/header-options.php:51
+#: template-parts/header/quick-contact.php:26
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/header-options.php:61
+#: template-parts/header/quick-contact.php:30
+msgid "Open Hours"
+msgstr ""
+
+#: inc/customizer/hero-content.php:72
+msgid "Top Subtitle"
+msgstr ""
+
+#: inc/customizer/reset.php:43
+msgid "Reset"
+msgstr ""
+
+#: inc/customizer/reset.php:44
+msgid "Caution! This action is irreversible. Press OK to continue."
+msgstr ""
+
+#: inc/customizer/reset.php:48
+msgid "Reset Section"
+msgstr ""
+
+#: inc/customizer/reset.php:49
+msgid "Caution! This action is irreversible. Press OK to reset the section."
+msgstr ""
+
+#: inc/customizer/slider.php:72 inc/customizer/wwd.php:117
+msgid "Item #"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:15
+msgid "Sections"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:20
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:21
+msgid "What We Do"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:22
+msgid "Hero Content"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:23
+msgid "Featured Product"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:25
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/sortable-sections.php:26
+msgid "Featured Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:56
+msgid "Continue reading"
+msgstr ""
+
+#: inc/customizer/theme-options.php:62
+msgid "Search..."
+msgstr ""
+
+#: inc/customizer/theme-options.php:80
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:92
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options.php:103 inc/customizer/wwd.php:102
+#: inc/theme-about.php:45
+msgid "Info"
+msgstr ""
+
+#: inc/customizer/theme-options.php:104
+msgid ""
+"Since Breadcrumb NavXT Plugin is installed, edit plugin's settings "
+"%1$shere%2$s"
+msgstr ""
+
+#: inc/customizer/theme-options.php:117
+msgid "Display Breadcrumb?"
+msgstr ""
+
+#: inc/customizer/theme-options.php:130
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/theme-options.php:140
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer/theme-options.php:141
+msgid "Slide to right to make buttons more rounder"
+msgstr ""
+
+#: inc/customizer/theme-options.php:160
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/theme-options.php:170
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:173
+msgid "Fluid"
+msgstr ""
+
+#: inc/customizer/theme-options.php:174
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/theme-options.php:184
+msgid "Default Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:187 inc/customizer/theme-options.php:201
+msgid "Right Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar: Full Width"
+msgstr ""
+
+#: inc/customizer/theme-options.php:198
+msgid "Homepage/Archive Layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:215
+msgid "Excerpt Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:225
+msgid "Excerpt Length (Words)"
+msgstr ""
+
+#: inc/customizer/theme-options.php:235
+msgid "Excerpt More Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:250
+msgid "Filter Homepage/Blog page posts by following categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:251
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:256
+msgid "--Select--"
+msgstr ""
+
+#: inc/customizer/theme-options.php:268
+#: template-parts/header/header-search.php:9
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/theme-options.php:277
+msgid "Search Text"
+msgstr ""
+
+#: inc/customizer/utilities.php:119 inc/metabox.php:29
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/utilities.php:120
+msgid "Homepage / Frontpage"
+msgstr ""
+
+#: inc/customizer/utilities.php:121
+msgid "Entire Site"
+msgstr ""
+
+#: inc/customizer/wwd.php:103
+msgid ""
+"If you want camera icon, save \"fas fa-camera\". For more classes, check "
+"%1$sthis%2$s"
+msgstr ""
+
+#: inc/customizer/wwd.php:127
+msgid "Icon Class"
+msgstr ""
+
+#: inc/metabox.php:15
+msgid "Featured Image"
+msgstr ""
+
+#: inc/metabox.php:28
+msgid "Default"
+msgstr ""
+
+#: inc/metabox.php:30
+msgid "Post Thumbnail (470x470)"
+msgstr ""
+
+#: inc/metabox.php:31
+msgid "Slider Image (1920x954)"
+msgstr ""
+
+#: inc/metabox.php:32
+msgid "Original Image Size"
+msgstr ""
+
+#: inc/template-functions.php:250
+#. translators: %s: Name of current post
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/template-tags.php:75
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:83
+#. translators: 1: list of categories.
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:104
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:141
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:158 template-parts/content/content-page.php:44
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:238
+#. translators: 1: before html, 2: after html, 3: list of categories.
+msgid "%1$sPosted in%2$s %3$s"
+msgstr ""
+
+#: inc/template-tags.php:305 inc/template-tags.php:307
+msgid "JetBlack by"
+msgstr ""
+
+#: inc/theme-about.php:19
+msgid "About Theme"
+msgstr ""
+
+#: inc/theme-about.php:47
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-about.php:49
+msgid "Demo"
+msgstr ""
+
+#: inc/theme-about.php:51
+msgid "Support"
+msgstr ""
+
+#: inc/theme-about.php:61
+msgid "Secondary menu"
+msgstr ""
+
+#: inc/theme-about.php:62
+msgid "About"
+msgstr ""
+
+#: inc/theme-about.php:64
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-about.php:76
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/theme-about.php:76
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/theme-about.php:79
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/theme-about.php:79
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/theme-about.php:93
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/theme-about.php:94
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/theme-about.php:95
+msgid "Customize"
+msgstr ""
+
+#: inc/theme-about.php:99
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/theme-about.php:100
+msgid ""
+"Get genuine support from genuine people. Whether it's customization or "
+"compatibility, our seasoned developers deliver tailored solutions to your "
+"queries."
+msgstr ""
+
+#: inc/theme-about.php:101
+msgid "Support Forum"
+msgstr ""
+
+#: single.php:23
+msgid "Previous"
+msgstr ""
+
+#: single.php:24
+msgid "Next"
+msgstr ""
+
+#: template-parts/content/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content/content-none.php:24
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content/content-page.php:31
+#: template-parts/content/content-single.php:46
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/content-single.php:35
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/header/header-one.php:22
+msgid "Top Bar"
+msgstr ""
+
+#: template-parts/header/header-one.php:35
+#: template-parts/header/header-one.php:66
+#: template-parts/header/header-social.php:10
+msgid "Social Links Menu"
+msgstr ""
+
+#: template-parts/navigation/navigation-primary.php:10
+msgid "Menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "JetBlack"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://fireflythemes.com/themes/jetblack-pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"JetBlack is an elegant, multipurpose theme designed for any kind of "
+"business or startups. This theme is made to suit all your needs for a "
+"multipurpose business theme. JetBlack is a versatile business WordPress "
+"theme, which can be used to transformed into any kind of business website "
+"such as Corporate houses, Online stores, Photography, Music, personal Blogs "
+"or any kind of Professional sites and much more. It has amazing features "
+"like Associate Logo, Slider, Hero Content, Featured Grid, Portfolio, "
+"Featured Video, Filter Content, Playlist, Stat Section, Product Categories, "
+"Promotion Headline, Skills, News & Events, Team, Testimonials, Pricing "
+"Table, What we do, Content Widget Area 1, Content Widget Area 2 and Content "
+"Widget Area 3 and so on. These amazing features can be customized as per "
+"your requirements. JetBlack is fully responsible which means it can adapt "
+"to any screen sizes and is WPML ready too, which is another plus point. "
+"With all the features that theme has, it is one of the best business "
+"corporate WordPress theme. It comes with beautiful demos too please do "
+"check it out. Visit https://fireflythemes.com/support for support, "
+"https://fireflythemes.com/documentation/jetblack-pro for theme "
+"documentation and https://fireflythemes.com/demo/jetblack for demo."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FireFly Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fireflythemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar ( Content, Primary Sidebar )"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:318
+#. Translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:100
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:305 inc/template-tags.php:307
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright &copy; %1$s %2$s %3$s"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""

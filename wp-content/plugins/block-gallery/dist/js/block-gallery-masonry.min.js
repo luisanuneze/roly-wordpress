@@ -1,0 +1,1 @@
+!function(o){"use strict";var e=o(".wp-block-blockgallery-masonry ul");o(document).ready(function(){e.imagesLoaded(function(){e.masonry({itemSelector:".blockgallery--item",transitionDuration:"0.2s",percentPosition:!0})})})}(jQuery);

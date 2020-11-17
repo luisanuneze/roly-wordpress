@@ -1,0 +1,125 @@
+/* -----------------------------------------
+	09. Mobile menu
+----------------------------------------- */
+/* -----------------------------------------
+	Mobile Navigation
+----------------------------------------- */
+.mobile-nav-open {
+  overflow: hidden;
+}
+
+.navigation-mobile-wrap {
+  background-color: $grey;
+  color: $text-color;
+  padding: 0 15px;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .18s ease;
+
+  .mobile-nav-open & {
+	opacity: 1;
+	visibility: visible;
+  }
+
+  .admin-bar & {
+	// Height of the admin bar in mobile
+	top: 46px;
+	padding-bottom: 46px;
+  }
+}
+
+.navigation-mobile {
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  color: $text-color;
+
+  li {
+	list-style: none;
+	width: 100%;
+	position: relative;
+
+	ul {
+	  display: none;
+	}
+  }
+
+  .menu-item-expanded {
+	> ul {
+	  display: block;
+	}
+
+	> .menu-item-sub-menu-toggle {
+	  &::before {
+		display: inline-block;
+		transform: rotate(180deg);
+	  }
+	}
+  }
+
+  a {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	border-bottom: 1px solid $border-color;
+	padding: 15px 45px 15px 0;
+	display: block;
+	font-weight: 700;
+	color: currentColor;
+  }
+}
+
+.navigation-mobile-dismiss {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-bottom: 1px solid $border-color;
+  padding: 14px;
+  text-align: right;
+  font-weight: 700;
+  color: $text-color;
+
+  &:hover, &:focus {
+	color: $text-color;
+  }
+
+  &::after {
+	content: "\00d7";
+	font-size: 1.5rem;
+	margin-left: 5px;
+  }
+}
+
+.menu-item-sub-menu-toggle {
+  height: auto;
+  width: auto;
+  background: none;
+  box-shadow: none;
+  display: block;
+  flex: none;
+  padding: 15px 15px;
+  border: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: bold;
+  color: $text-color !important;
+  background-color: transparent !important;
+
+  &:focus {
+	outline: 1px dotted currentColor;
+  }
+
+  &::before {
+	content: "\f107";
+	font-family: "FontAwesome";
+	transition: transform .18s ease;
+  }
+}

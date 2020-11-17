@@ -1,0 +1,58 @@
+
+
+$theme-background-color : (
+
+    background-primary-color: #fff,
+
+    tertiary-background-color: #131218, 
+
+    background-secondary-color: #f6f6f6,
+
+    background-tertiary-color: #00e8b6,
+    
+    background-dark-color: #000, //000
+
+    background-small-text: #eee,
+
+    fade-team-content: linear-gradient(to bottom, rgba(19, 18, 24,0.9), #131218),
+);
+
+$theme-color:(
+
+    primary-color: #333333,
+
+    header-color: #03065d,
+
+    theme-heading-color: #222222,
+
+    eighty-nine-of-heading-color: #060606,
+
+    theme-link-color: #333333,
+
+    eighty-six-of-link-color: #111111,
+
+    theme-link-hover-color: #01e0af,
+
+    secondary-link-color: #999999,
+
+    color-white-light: #fff, // ffff
+
+    eighty-two-of-color-white-light: #d1d1d1,
+
+    quote-color: #01e0af,
+
+    theme-primary-border-color: #ebebeb, //#ebebeb
+
+    ninety-nine-for-border-color: #979797,
+);
+
+$button-color: (
+ 
+    background-button: #01e0af,
+
+    button-text-color: #03065d,
+
+    button-hover-text-color: #fff,
+
+    background-hover-button: #333333
+);
